@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <map input="400" output="65"/>
+      <map input="600" output="105"/>
+      <map input="700" output="150"/>
+      <map input="900" output="205"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="CinzelDecorative-Regular.ufo" name="Cinzel Decorative Regular" familyname="Cinzel Decorative" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="65"/>
+      </location>
+    </source>
+    <source filename="CinzelDecorative-Black.ufo" name="Cinzel Decorative Black" familyname="Cinzel Decorative" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="205"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Cinzel Decorative Regular" familyname="Cinzel Decorative" stylename="Regular" filename="instance_ufos/CinzelDecorative-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="65"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cinzel Decorative Semi Bold" familyname="Cinzel Decorative" stylename="Semi Bold" filename="instance_ufos/CinzelDecorative-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="105"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
+            <real>0.28571</real>
+            <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
+            <real>0.71429</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cinzel Decorative Bold" familyname="Cinzel Decorative" stylename="Bold" filename="instance_ufos/CinzelDecorative-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
+            <real>0.60714</real>
+            <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
+            <real>0.39286</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Cinzel Decorative Black" familyname="Cinzel Decorative" stylename="Black" filename="instance_ufos/CinzelDecorative-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="205"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
+        <dict>
+          <key>HH</key>
+          <integer>50</integer>
+          <key>HV</key>
+          <integer>205</integer>
+          <key>OH</key>
+          <integer>50</integer>
+          <key>OV</key>
+          <integer>215</integer>
+          <key>nV</key>
+          <integer>185</integer>
+          <key>nd</key>
+          <integer>44</integer>
+          <key>oH</key>
+          <integer>44</integer>
+          <key>oV</key>
+          <integer>195</integer>
+        </dict>
+        <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
+        <dict>
+          <key>HH</key>
+          <integer>30</integer>
+          <key>HV</key>
+          <integer>65</integer>
+          <key>OH</key>
+          <integer>30</integer>
+          <key>OV</key>
+          <integer>75</integer>
+          <key>nV</key>
+          <integer>64</integer>
+          <key>oV</key>
+          <integer>72</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

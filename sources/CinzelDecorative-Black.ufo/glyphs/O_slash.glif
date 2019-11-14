@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="905"/>
+  <unicode hex="00D8"/>
+  <anchor x="450.432" y="778" name="top"/>
+  <outline>
+    <contour>
+      <point x="722.389" y="726.336" type="line"/>
+      <point x="108.844" y="13" type="line"/>
+      <point x="152.854" y="-23" type="line"/>
+      <point x="765.701" y="691.577" type="line"/>
+    </contour>
+    <contour>
+      <point x="351.926" y="433.461" type="curve"/>
+      <point x="363.926" y="433.461" type="line"/>
+      <point x="331" y="542"/>
+      <point x="367" y="651"/>
+      <point x="473" y="664" type="curve" smooth="yes"/>
+      <point x="602" y="680"/>
+      <point x="685" y="539"/>
+      <point x="685" y="355" type="curve" smooth="yes"/>
+      <point x="685" y="160"/>
+      <point x="591" y="36"/>
+      <point x="453" y="36" type="curve" smooth="yes"/>
+      <point x="307" y="36"/>
+      <point x="216" y="176"/>
+      <point x="216" y="387" type="curve" smooth="yes"/>
+      <point x="216" y="518"/>
+      <point x="251" y="639"/>
+      <point x="306.434" y="696.836" type="curve"/>
+      <point x="300.434" y="706.836" type="line"/>
+      <point x="120" y="676"/>
+      <point x="-5" y="536"/>
+      <point x="-5" y="353" type="curve" smooth="yes"/>
+      <point x="-5" y="133"/>
+      <point x="178" y="-14"/>
+      <point x="452" y="-14" type="curve" smooth="yes"/>
+      <point x="724" y="-14"/>
+      <point x="906" y="130"/>
+      <point x="906" y="355" type="curve" smooth="yes"/>
+      <point x="906" y="632"/>
+      <point x="632" y="746"/>
+      <point x="470" y="714" type="curve" smooth="yes"/>
+      <point x="323" y="685"/>
+      <point x="287" y="542"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/05/03 17:54:15</string>
+    </dict>
+  </lib>
+</glyph>

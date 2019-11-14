@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="777"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="380.701" y="614" type="curve" smooth="yes"/>
+      <point x="197.574" y="614"/>
+      <point x="49.978" y="485.836"/>
+      <point x="49.978" y="299.992" type="curve" smooth="yes"/>
+      <point x="49.978" y="114.156"/>
+      <point x="197.574" y="-14"/>
+      <point x="380.701" y="-14" type="curve" smooth="yes"/>
+      <point x="563.812" y="-14"/>
+      <point x="711.409" y="114.156"/>
+      <point x="711.409" y="299.992" type="curve" smooth="yes"/>
+      <point x="711.409" y="485.836"/>
+      <point x="563.812" y="614"/>
+    </contour>
+    <contour>
+      <point x="380.701" y="15.925" type="curve" smooth="yes"/>
+      <point x="237.085" y="15.925"/>
+      <point x="123.859" y="130.914"/>
+      <point x="123.859" y="299.992" type="curve" smooth="yes"/>
+      <point x="123.859" y="469.078"/>
+      <point x="237.085" y="584.075"/>
+      <point x="380.701" y="584.075" type="curve" smooth="yes"/>
+      <point x="524.303" y="584.075"/>
+      <point x="637.529" y="469.078"/>
+      <point x="637.529" y="299.992" type="curve" smooth="yes"/>
+      <point x="637.529" y="130.914"/>
+      <point x="524.303" y="15.925"/>
+    </contour>
+    <contour>
+      <point x="379.464" y="-13" type="line"/>
+      <point x="498.77" y="-34"/>
+      <point x="644.112" y="-129"/>
+      <point x="752" y="-174" type="curve" smooth="yes"/>
+      <point x="1004.57" y="-281"/>
+      <point x="1173.07" y="-132"/>
+      <point x="1194.12" y="-78" type="curve"/>
+      <point x="1190.78" y="-74" type="line"/>
+      <point x="1081.16" y="-174"/>
+      <point x="890.909" y="-167"/>
+      <point x="758" y="-114" type="curve" smooth="yes"/>
+      <point x="581.61" y="-44"/>
+      <point x="440.289" y="8.964"/>
+      <point x="388.9" y="8.964" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/04/10 17:59:34</string>
+    </dict>
+  </lib>
+</glyph>

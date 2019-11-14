@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="407"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="127.75" y="339.841" type="curve"/>
+      <point x="120.167" y="324.718"/>
+      <point x="102.583" y="324.595"/>
+      <point x="85" y="324.472" type="curve"/>
+      <point x="85" y="314.472" type="line"/>
+      <point x="101" y="313"/>
+      <point x="119" y="308"/>
+      <point x="125" y="292" type="curve" smooth="yes"/>
+      <point x="136" y="263"/>
+      <point x="104" y="186"/>
+      <point x="104" y="109" type="curve" smooth="yes"/>
+      <point x="104" y="1"/>
+      <point x="166" y="-100"/>
+      <point x="365.881" y="-100" type="curve"/>
+      <point x="367.566" y="-92" type="line"/>
+      <point x="274" y="-68"/>
+      <point x="309" y="13"/>
+      <point x="309.462" y="110.218" type="curve" smooth="yes"/>
+      <point x="309" y="275"/>
+      <point x="247" y="294"/>
+      <point x="170.571" y="316.39" type="curve"/>
+      <point x="247" y="340"/>
+      <point x="309" y="334"/>
+      <point x="309.462" y="536.206" type="curve" smooth="yes"/>
+      <point x="309" y="628"/>
+      <point x="296" y="701"/>
+      <point x="387.566" y="724.78" type="curve"/>
+      <point x="385.881" y="732.78" type="line"/>
+      <point x="186" y="733"/>
+      <point x="104" y="633"/>
+      <point x="104" y="521" type="curve" smooth="yes"/>
+      <point x="104" y="449"/>
+      <point x="138" y="365"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/03/23 18:11:31</string>
+    </dict>
+  </lib>
+</glyph>

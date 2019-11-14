@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation" format="2">
+  <advance width="635"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="569.896" y="700" type="line"/>
+      <point x="45.544" y="700" type="line"/>
+      <point x="45.544" y="690" type="line"/>
+      <point x="304.299" y="252.386" type="line"/>
+      <point x="40" y="-170" type="line"/>
+      <point x="40" y="-181" type="line"/>
+      <point x="559.896" y="-180" type="line"/>
+      <point x="559.896" y="-116" type="line"/>
+      <point x="115.11" y="-115" type="line"/>
+      <point x="359.7" y="279.254" type="line"/>
+      <point x="132.349" y="670" type="line"/>
+      <point x="569.896" y="670" type="line"/>
+    </contour>
+    <contour>
+      <point x="569.896" y="672.735" type="line"/>
+      <point x="501.321" y="672.735" type="line"/>
+      <point x="501.321" y="670.027" type="line"/>
+      <point x="533.745" y="669.417"/>
+      <point x="559.85" y="642.985"/>
+      <point x="559.85" y="610.408" type="curve" smooth="yes"/>
+      <point x="559.831" y="592.584" type="line"/>
+      <point x="569.896" y="592.434" type="line"/>
+    </contour>
+    <contour>
+      <point x="569.896" y="718.23" type="line"/>
+      <point x="550.947" y="710.244"/>
+      <point x="491.325" y="700.03"/>
+      <point x="447.965" y="700.03" type="curve"/>
+      <point x="569.896" y="688.952" type="line"/>
+    </contour>
+    <contour>
+      <point x="600.612" y="8.709" type="line"/>
+      <point x="590.612" y="8.709" type="line"/>
+      <point x="571.607" y="-61"/>
+      <point x="528.421" y="-116"/>
+      <point x="453.817" y="-116" type="curve"/>
+      <point x="436.103" y="-180" type="line"/>
+      <point x="567.676" y="-180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/05/08 11:11:49</string>
+    </dict>
+  </lib>
+</glyph>
