@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="600"/>
+  <unicode hex="02DD"/>
+  <anchor x="268.784" y="746.589" name="_top"/>
+  <outline>
+    <contour>
+      <point x="200.671" y="752.971" type="curve"/>
+      <point x="211.671" y="750.971" type="line"/>
+      <point x="253.628" y="791.066"/>
+      <point x="292.584" y="831.161"/>
+      <point x="328.541" y="871.256" type="curve"/>
+      <point x="309.24" y="879.459"/>
+      <point x="287.939" y="882.662"/>
+      <point x="267.638" y="883.865" type="curve"/>
+      <point x="243.316" y="840.234"/>
+      <point x="220.993" y="796.602"/>
+    </contour>
+    <contour>
+      <point x="322.897" y="752.971" type="curve"/>
+      <point x="333.897" y="750.971" type="line"/>
+      <point x="376.854" y="790.066"/>
+      <point x="414.81" y="831.161"/>
+      <point x="450.767" y="871.256" type="curve"/>
+      <point x="432.466" y="878.459"/>
+      <point x="410.165" y="883.662"/>
+      <point x="389.864" y="883.865" type="curve"/>
+      <point x="362.542" y="840.234"/>
+      <point x="341.219" y="796.602"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/03/27 16:30:42</string>
+    </dict>
+  </lib>
+</glyph>

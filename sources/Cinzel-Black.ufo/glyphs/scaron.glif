@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scaron" format="2">
+  <advance width="549"/>
+  <unicode hex="0161"/>
+  <outline>
+    <component base="s"/>
+    <component base="caron" xOffset="1.943" yOffset="-6.576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/04/12 13:00:13</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcaron" format="2">
+  <advance width="667"/>
+  <unicode hex="017E"/>
+  <outline>
+    <component base="z"/>
+    <component base="caron" xOffset="50.057" yOffset="93.424"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/05/04 12:06:31</string>
+    </dict>
+  </lib>
+</glyph>

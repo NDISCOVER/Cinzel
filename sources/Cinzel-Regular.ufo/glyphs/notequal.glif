@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="481"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="40" y="408.891" type="line"/>
+      <point x="40" y="363.891" type="line"/>
+      <point x="441.723" y="363.891" type="line"/>
+      <point x="441.723" y="408.891" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="233.891" type="line"/>
+      <point x="40" y="188.891" type="line"/>
+      <point x="441.723" y="188.891" type="line"/>
+      <point x="441.723" y="233.891" type="line"/>
+    </contour>
+    <contour>
+      <point x="327.605" y="518.564" type="line"/>
+      <point x="117.049" y="85.24" type="line"/>
+      <point x="158.255" y="66.663" type="line"/>
+      <point x="367.541" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/05/08 11:11:23</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute" format="2">
+  <advance width="668"/>
+  <unicode hex="0107"/>
+  <outline>
+    <component base="c"/>
+    <component base="acute" xOffset="149.403" yOffset="-66.697"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/04/12 11:44:27</string>
+    </dict>
+  </lib>
+</glyph>

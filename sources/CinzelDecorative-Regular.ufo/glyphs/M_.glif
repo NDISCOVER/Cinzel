@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="931"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="740.602" y="713.697" type="line"/>
+      <point x="443.898" y="48.95" type="line"/>
+      <point x="458.15" y="-14" type="line"/>
+      <point x="467.569" y="-14" type="line"/>
+      <point x="474.023" y="27.387"/>
+      <point x="501.886" y="88.11"/>
+      <point x="501.886" y="88.11" type="curve"/>
+      <point x="749.227" y="646.912" type="line"/>
+    </contour>
+    <contour>
+      <point x="125.623" y="72.645" type="line"/>
+      <point x="104.211" y="72.645" type="line"/>
+      <point x="99" y="33"/>
+      <point x="67" y="10"/>
+      <point x="31.328" y="9.991" type="curve" smooth="yes"/>
+      <point x="29" y="10"/>
+      <point x="17" y="10"/>
+      <point x="15.414" y="10" type="curve"/>
+      <point x="15.414" y="0" type="line"/>
+      <point x="125.623" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="154.771" y="56.525" type="curve"/>
+      <point x="147.697" y="56.525" type="line"/>
+      <point x="147.697" y="0" type="line"/>
+      <point x="209.081" y="0" type="line"/>
+      <point x="209.081" y="9.445" type="line"/>
+      <point x="193.5" y="9.445" type="line" smooth="yes"/>
+      <point x="175" y="9"/>
+      <point x="155" y="28"/>
+      <point x="154.511" y="52.144" type="curve" smooth="yes"/>
+      <point x="155" y="56"/>
+      <point x="154" y="53"/>
+    </contour>
+    <contour>
+      <point x="172.222" y="658.096" type="line"/>
+      <point x="95.698" y="0" type="line"/>
+      <point x="149.672" y="0" type="line"/>
+      <point x="208.663" y="654.713" type="line"/>
+    </contour>
+    <contour>
+      <point x="-67" y="797.904" type="curve"/>
+      <point x="-67" y="787.904" type="line"/>
+      <point x="75.508" y="806.116"/>
+      <point x="148.695" y="658.117"/>
+      <point x="187.163" y="574.567" type="curve" smooth="yes"/>
+      <point x="458.153" y="-14" type="line"/>
+      <point x="481.016" y="90.642" type="line"/>
+      <point x="230.569" y="632.819" type="line" smooth="yes"/>
+      <point x="198.993" y="701.177"/>
+      <point x="103.69" y="836.386"/>
+    </contour>
+    <contour>
+      <point x="749.744" y="713.697" type="line"/>
+      <point x="740.602" y="713.697" type="line"/>
+      <point x="703.487" y="605.769" type="line"/>
+      <point x="770.967" y="112.518" type="line" smooth="yes"/>
+      <point x="794.239" y="-58"/>
+      <point x="907.512" y="-202"/>
+      <point x="1111.82" y="-172" type="curve"/>
+      <point x="1111.82" y="-162" type="line"/>
+      <point x="972.612" y="-168"/>
+      <point x="871.872" y="-65"/>
+      <point x="842.665" y="121.574" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/05/05 22:23:04</string>
+    </dict>
+  </lib>
+</glyph>

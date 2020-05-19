@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="498"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="388.907" y="524" type="line"/>
+      <point x="422.315" y="629" type="line"/>
+      <point x="412.315" y="629" type="line"/>
+      <point x="396.98" y="599.101"/>
+      <point x="374.621" y="579"/>
+      <point x="332.919" y="579" type="curve"/>
+      <point x="135.427" y="564" type="line"/>
+      <point x="56.981" y="292.7" type="line"/>
+      <point x="65.981" y="288.7" type="line"/>
+      <point x="229.879" y="344.08"/>
+      <point x="357.303" y="280.769"/>
+      <point x="347.827" y="146.198" type="curve" smooth="yes"/>
+      <point x="334.925" y="-37"/>
+      <point x="136.364" y="-123"/>
+      <point x="52" y="-121" type="curve"/>
+      <point x="50" y="-131" type="line"/>
+      <point x="133.185" y="-146"/>
+      <point x="412.827" y="-89"/>
+      <point x="422.827" y="153.749" type="curve" smooth="yes"/>
+      <point x="429.979" y="327.34"/>
+      <point x="275.009" y="393.397"/>
+      <point x="108.095" y="350.931" type="curve"/>
+      <point x="154.14" y="509" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/05/05 22:33:57</string>
+    </dict>
+  </lib>
+</glyph>

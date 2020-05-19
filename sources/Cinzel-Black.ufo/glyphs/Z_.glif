@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="668"/>
+  <unicode hex="005A"/>
+  <anchor x="335" y="764" name="top"/>
+  <outline>
+    <contour>
+      <point x="620.594" y="714" type="curve"/>
+      <point x="608.791" y="707.817"/>
+      <point x="554.843" y="701.098"/>
+      <point x="514.627" y="701.098" type="curve"/>
+      <point x="49.348" y="700.737" type="line"/>
+      <point x="49.348" y="650.856" type="line"/>
+      <point x="367.247" y="650.855" type="line"/>
+      <point x="35.184" y="9.322" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="259.584" y="0" type="line"/>
+      <point x="620.594" y="705.328" type="line"/>
+      <point x="620.594" y="705.33"/>
+      <point x="620.594" y="714"/>
+    </contour>
+    <contour>
+      <point x="598.324" y="49.734" type="line"/>
+      <point x="108.887" y="49.734" type="line"/>
+      <point x="108.887" y="0" type="line"/>
+      <point x="592.193" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="643.845" y="231.543" type="line" smooth="yes"/>
+      <point x="633.845" y="231.543" type="line"/>
+      <point x="602.753" y="117.359"/>
+      <point x="522.283" y="49.807"/>
+      <point x="426.32" y="49.807" type="curve"/>
+      <point x="407.312" y="37.448" type="line"/>
+      <point x="390.016" y="0" type="line"/>
+      <point x="605.557" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="187.952" y="650.864" type="curve"/>
+      <point x="187.952" y="653.572" type="line"/>
+      <point x="49.342" y="653.572" type="line"/>
+      <point x="49.342" y="513.271" type="line"/>
+      <point x="59.442" y="513.421" type="line"/>
+      <point x="59.423" y="521.245" type="line" smooth="yes"/>
+      <point x="59.229" y="601.123"/>
+      <point x="106.968" y="650.341"/>
+    </contour>
+    <contour>
+      <point x="49.342" y="719.03" type="curve"/>
+      <point x="49.342" y="689.751" type="line"/>
+      <point x="171.273" y="700.829" type="line"/>
+      <point x="127.913" y="700.829"/>
+      <point x="68.291" y="711.043"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2012/04/12 11:36:33</string>
+    </dict>
+  </lib>
+</glyph>

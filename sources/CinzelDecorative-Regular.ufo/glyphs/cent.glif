@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="602"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="562.628" y="304.437" type="line"/>
+      <point x="555.44" y="304.406" type="line"/>
+      <point x="546.121" y="162.868"/>
+      <point x="451.52" y="105.121"/>
+      <point x="329.22" y="104.755" type="curve" smooth="yes"/>
+      <point x="199.541" y="107.525"/>
+      <point x="125" y="196.629"/>
+      <point x="125" y="346.002" type="curve" smooth="yes"/>
+      <point x="125" y="498.145"/>
+      <point x="199.541" y="587.245"/>
+      <point x="329.22" y="587.245" type="curve" smooth="yes"/>
+      <point x="430.252" y="587.245"/>
+      <point x="506.282" y="548.817"/>
+      <point x="531.573" y="442.978" type="curve"/>
+      <point x="538.763" y="442.95" type="line"/>
+      <point x="521.334" y="564.955" type="line"/>
+      <point x="470.971" y="597.375"/>
+      <point x="397.967" y="617.245"/>
+      <point x="329.219" y="617.245" type="curve" smooth="yes"/>
+      <point x="162.05" y="617.245"/>
+      <point x="50" y="514.173"/>
+      <point x="50" y="346.002" type="curve" smooth="yes"/>
+      <point x="50" y="178.62"/>
+      <point x="162.05" y="75.619"/>
+      <point x="329.219" y="74.755" type="curve"/>
+      <point x="426.764" y="74.755"/>
+      <point x="512.443" y="117.08"/>
+      <point x="554.691" y="186.136" type="curve"/>
+    </contour>
+    <contour>
+      <point x="342.947" y="700.726" type="line"/>
+      <point x="286.184" y="-6" type="line"/>
+      <point x="315.202" y="-9" type="line"/>
+      <point x="373.47" y="699.677" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/07/27 09:04:30</string>
+    </dict>
+  </lib>
+</glyph>
