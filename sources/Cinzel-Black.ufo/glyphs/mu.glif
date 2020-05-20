@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mu" format="2">
   <advance width="854"/>
-  <unicode hex="03BC"/>
+  <unicode hex="00B5"/>
   <outline>
     <component base="m"/>
   </outline>
