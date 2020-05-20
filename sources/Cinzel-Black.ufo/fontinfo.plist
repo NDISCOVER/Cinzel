@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>800</integer>
+    <integer>976</integer>
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
     <string>Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)</string>
     <key>descender</key>
-    <integer>-200</integer>
+    <integer>-372</integer>
     <key>familyName</key>
     <string>Cinzel</string>
     <key>guidelines</key>
