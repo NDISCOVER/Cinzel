@@ -49,7 +49,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cinzel Decorative Semi Bold" familyname="Cinzel Decorative" stylename="Semi Bold" filename="instance_ufos/CinzelDecorative-SemiBold.ufo">
+    <instance name="Cinzel Decorative SemiBold" familyname="Cinzel Decorative" stylename="SemiBold" filename="instance_ufos/CinzelDecorative-SemiBold.ufo">
       <location>
         <dimension name="Weight" xvalue="105"/>
       </location>
