@@ -215,9 +215,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/ofl</string>
     <key>openTypeOS2Type</key>
-    <array>
-      <integer>3</integer>
-    </array>
+    <array/>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-14</integer>
