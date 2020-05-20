@@ -44,7 +44,10 @@ do
 done
 
 echo "Fixing VF Meta"
-gftools fix-vf-meta $vfs;
+for vf in $vfs
+do
+	gftools fix-vf-meta $vf;
+done
 
 echo "Dropping MVAR"
 for vf in $vfs
