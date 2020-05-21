@@ -1,9 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteright" format="2">
-  <advance width="189"/>
+  <advance width="194"/>
   <unicode hex="2019"/>
+  <guideline x="51" y="784" angle="0"/>
   <outline>
-    <component base="quoteleft" xScale="-0.95238" yScale="-0.95238" xOffset="188" yOffset="1344"/>
+    <contour>
+      <point x="57" y="762" type="curve" smooth="yes"/>
+      <point x="45" y="735"/>
+      <point x="67" y="716"/>
+      <point x="81" y="700" type="curve" smooth="yes"/>
+      <point x="99" y="678"/>
+      <point x="110" y="623"/>
+      <point x="45" y="602" type="curve"/>
+      <point x="48" y="593" type="line"/>
+      <point x="117" y="596"/>
+      <point x="174" y="669"/>
+      <point x="140" y="752" type="curve" smooth="yes"/>
+      <point x="122" y="795"/>
+      <point x="70" y="792"/>
+    </contour>
   </outline>
   <lib>
     <dict>
