@@ -496,6 +496,8 @@
     <string>macron.glif</string>
     <key>macroncomb</key>
     <string>macroncomb.glif</string>
+    <key>micro</key>
+    <string>micro.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>mu</key>

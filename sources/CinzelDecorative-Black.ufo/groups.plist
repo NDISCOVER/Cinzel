@@ -310,6 +310,7 @@
     <array>
       <string>m</string>
       <string>mu</string>
+      <string>micro</string>
     </array>
     <key>public.kern1.n</key>
     <array>
@@ -726,6 +727,7 @@
     <array>
       <string>m</string>
       <string>mu</string>
+      <string>micro</string>
     </array>
     <key>public.kern2.n</key>
     <array>
