@@ -66,10 +66,4 @@
       <point x="528.247" y="690.147" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/05/05 22:26:29</string>
-    </dict>
-  </lib>
 </glyph>

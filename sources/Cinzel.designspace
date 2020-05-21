@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
       <map input="400" output="65"/>
@@ -24,79 +24,26 @@
     </source>
   </sources>
   <instances>
-    <instance name="Cinzel Regular" familyname="Cinzel" stylename="Regular" filename="instance_ufos/Cinzel-Regular.ufo">
+    <instance name="Cinzel Regular" familyname="Cinzel" stylename="Regular" filename="instance_ufos/Cinzel-Regular.ufo" stylemapfamilyname="Cinzel" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="65"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Cinzel Bold" familyname="Cinzel" stylename="Bold" filename="instance_ufos/Cinzel-Bold.ufo">
+    <instance name="Cinzel Bold" familyname="Cinzel" stylename="Bold" filename="instance_ufos/Cinzel-Bold.ufo" stylemapfamilyname="Cinzel Bold" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
-            <real>0.60714</real>
-            <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
-            <real>0.39286</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Cinzel Black" familyname="Cinzel" stylename="Black" filename="instance_ufos/Cinzel-Black.ufo">
+    <instance name="Cinzel Black" familyname="Cinzel" stylename="Black" filename="instance_ufos/Cinzel-Black.ufo" stylemapfamilyname="Cinzel Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="205"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
   </instances>
   <lib>

@@ -5,10 +5,4 @@
   <outline>
     <component base="m"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/12 19:06:31</string>
-    </dict>
-  </lib>
 </glyph>

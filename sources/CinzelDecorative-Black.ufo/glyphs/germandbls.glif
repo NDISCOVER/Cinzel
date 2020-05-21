@@ -6,10 +6,4 @@
     <component base="s"/>
     <component base="s" xOffset="645"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/12 21:46:13</string>
-    </dict>
-  </lib>
 </glyph>
