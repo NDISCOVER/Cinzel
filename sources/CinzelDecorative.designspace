@@ -39,7 +39,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance name="Cinzel Decorative Bold" familyname="Cinzel Decorative" stylename="Bold" filename="instance_ufos/CinzelDecorative-Bold.ufo" stylemapfamilyname="Cinzel Decorative Bold" stylemapstylename="bold">
+    <instance name="Cinzel Decorative Bold" familyname="Cinzel Decorative" stylename="Bold" filename="instance_ufos/CinzelDecorative-Bold.ufo" stylemapfamilyname="Cinzel Decorative" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="150"/>
       </location>
