@@ -2,7 +2,6 @@
 <glyph name="grave" format="2">
   <advance width="600"/>
   <unicode hex="0060"/>
-  <anchor x="266.765" y="743.065" name="_top"/>
   <outline>
     <contour>
       <point x="293.671" y="749.971" type="line"/>
