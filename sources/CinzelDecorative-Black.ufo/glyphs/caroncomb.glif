@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="284.943" y="670.576" name="_top"/>
+  <anchor x="285" y="671" name="_top"/>
   <outline>
     <component base="caron"/>
   </outline>

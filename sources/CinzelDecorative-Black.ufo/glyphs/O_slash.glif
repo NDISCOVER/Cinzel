@@ -2,17 +2,17 @@
 <glyph name="Oslash" format="2">
   <advance width="905"/>
   <unicode hex="00D8"/>
-  <anchor x="450.432" y="778" name="top"/>
+  <anchor x="450" y="778" name="top"/>
   <outline>
     <contour>
-      <point x="722.389" y="726.336" type="line"/>
-      <point x="108.844" y="13" type="line"/>
-      <point x="152.854" y="-23" type="line"/>
-      <point x="765.701" y="691.577" type="line"/>
+      <point x="722" y="726" type="line"/>
+      <point x="109" y="13" type="line"/>
+      <point x="153" y="-23" type="line"/>
+      <point x="766" y="692" type="line"/>
     </contour>
     <contour>
-      <point x="351.926" y="433.461" type="curve"/>
-      <point x="363.926" y="433.461" type="line"/>
+      <point x="352" y="433" type="curve"/>
+      <point x="364" y="433" type="line"/>
       <point x="331" y="542"/>
       <point x="367" y="651"/>
       <point x="473" y="664" type="curve" smooth="yes"/>
@@ -27,8 +27,8 @@
       <point x="216" y="387" type="curve" smooth="yes"/>
       <point x="216" y="518"/>
       <point x="251" y="639"/>
-      <point x="306.434" y="696.836" type="curve"/>
-      <point x="300.434" y="706.836" type="line"/>
+      <point x="306" y="697" type="curve"/>
+      <point x="300" y="707" type="line"/>
       <point x="120" y="676"/>
       <point x="-5" y="536"/>
       <point x="-5" y="353" type="curve" smooth="yes"/>

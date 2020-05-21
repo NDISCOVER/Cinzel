@@ -4,7 +4,7 @@
   <unicode hex="0102"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb" xOffset="128.615" yOffset="53.912"/>
+    <component base="brevecomb" xOffset="129" yOffset="54"/>
   </outline>
   <lib>
     <dict>

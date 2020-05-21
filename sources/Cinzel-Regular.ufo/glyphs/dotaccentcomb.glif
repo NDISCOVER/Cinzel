@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
   <unicode hex="0307"/>
-  <anchor x="302.183" y="700" name="_top"/>
+  <anchor x="302" y="700" name="_top"/>
   <outline>
     <component base="dotaccent"/>
   </outline>

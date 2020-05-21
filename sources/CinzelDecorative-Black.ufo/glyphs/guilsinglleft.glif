@@ -4,20 +4,20 @@
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="40" y="291.757" type="curve"/>
-      <point x="114.934" y="337.743"/>
-      <point x="199.868" y="393.729"/>
-      <point x="274.802" y="489.715" type="curve"/>
-      <point x="282.802" y="484.715" type="line"/>
-      <point x="246.868" y="420.396"/>
-      <point x="220.934" y="376.076"/>
-      <point x="195" y="291.757" type="curve"/>
-      <point x="221.267" y="206.076"/>
-      <point x="247.535" y="160.396"/>
-      <point x="283.802" y="94.715" type="curve"/>
-      <point x="274.802" y="87.715" type="line"/>
-      <point x="199.868" y="175.729"/>
-      <point x="114.934" y="243.743"/>
+      <point x="40" y="292" type="curve"/>
+      <point x="115" y="338"/>
+      <point x="200" y="394"/>
+      <point x="275" y="490" type="curve"/>
+      <point x="283" y="485" type="line"/>
+      <point x="247" y="420"/>
+      <point x="221" y="376"/>
+      <point x="195" y="292" type="curve"/>
+      <point x="221" y="206"/>
+      <point x="248" y="160"/>
+      <point x="284" y="95" type="curve"/>
+      <point x="275" y="88" type="line"/>
+      <point x="200" y="176"/>
+      <point x="115" y="244"/>
     </contour>
   </outline>
 </glyph>

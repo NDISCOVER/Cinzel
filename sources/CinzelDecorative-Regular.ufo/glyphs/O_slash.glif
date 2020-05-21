@@ -5,14 +5,14 @@
   <anchor x="469" y="764" name="top"/>
   <outline>
     <contour>
-      <point x="759.389" y="722.336" type="line"/>
-      <point x="157.844" y="-1" type="line"/>
-      <point x="182.854" y="-23" type="line"/>
-      <point x="784.701" y="699.577" type="line"/>
+      <point x="759" y="722" type="line"/>
+      <point x="158" y="-1" type="line"/>
+      <point x="183" y="-23" type="line"/>
+      <point x="785" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="276.834" y="467.041" type="curve"/>
-      <point x="286.834" y="469.041" type="line"/>
+      <point x="277" y="467" type="curve"/>
+      <point x="287" y="469" type="line"/>
       <point x="272" y="560"/>
       <point x="349" y="684"/>
       <point x="515" y="684" type="curve" smooth="yes"/>
@@ -27,8 +27,8 @@
       <point x="137" y="375" type="curve" smooth="yes"/>
       <point x="137" y="479"/>
       <point x="165" y="609"/>
-      <point x="258.903" y="670.769" type="curve"/>
-      <point x="252.903" y="679.769" type="line"/>
+      <point x="259" y="671" type="curve"/>
+      <point x="253" y="680" type="line"/>
       <point x="129" y="617"/>
       <point x="60" y="502"/>
       <point x="60" y="360" type="curve" smooth="yes"/>
