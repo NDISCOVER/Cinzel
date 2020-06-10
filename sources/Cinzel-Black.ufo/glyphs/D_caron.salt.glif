@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcaron.salt" format="2">
+  <advance width="878"/>
+  <outline>
+    <component base="D.salt"/>
+    <component base="caroncomb" xOffset="172" yOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D.001</string>
+    </dict>
+  </lib>
+</glyph>

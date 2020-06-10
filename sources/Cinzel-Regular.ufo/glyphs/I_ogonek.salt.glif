@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek.salt" format="2">
+  <advance width="393"/>
+  <outline>
+    <component base="I.salt"/>
+    <component base="ogonekcomb" xOffset="-134" yOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I.001</string>
+    </dict>
+  </lib>
+</glyph>

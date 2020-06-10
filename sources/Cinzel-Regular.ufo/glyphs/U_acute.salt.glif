@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uacute.salt" format="2">
+  <advance width="783"/>
+  <outline>
+    <component base="U.salt"/>
+    <component base="acutecomb" xOffset="214" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U.001</string>
+    </dict>
+  </lib>
+</glyph>

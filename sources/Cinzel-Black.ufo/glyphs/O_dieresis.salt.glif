@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis.salt" format="2">
+  <advance width="931"/>
+  <outline>
+    <component base="O.salt"/>
+    <component base="dieresiscomb" xOffset="181" yOffset="104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O.001</string>
+    </dict>
+  </lib>
+</glyph>

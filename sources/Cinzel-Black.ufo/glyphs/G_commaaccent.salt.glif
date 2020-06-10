@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcommaaccent.salt" format="2">
+  <advance width="872"/>
+  <outline>
+    <component base="G.salt"/>
+    <component base="commaaccentcomb" xOffset="360" yOffset="-64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>G.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>G.001</string>
+    </dict>
+  </lib>
+</glyph>

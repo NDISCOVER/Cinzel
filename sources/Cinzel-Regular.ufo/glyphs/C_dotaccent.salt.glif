@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent.salt" format="2">
+  <advance width="821"/>
+  <outline>
+    <component base="C.salt"/>
+    <component base="dotaccentcomb" xOffset="140.007" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C.001</string>
+    </dict>
+  </lib>
+</glyph>

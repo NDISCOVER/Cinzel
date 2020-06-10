@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gdotaccent.salt" format="2">
+  <advance width="846"/>
+  <outline>
+    <component base="G.salt"/>
+    <component base="dotaccentcomb" xOffset="147" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>G.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>G.001</string>
+    </dict>
+  </lib>
+</glyph>

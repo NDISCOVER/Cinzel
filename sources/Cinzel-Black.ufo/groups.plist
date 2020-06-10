@@ -14,10 +14,21 @@
       <string>Aogonek</string>
       <string>Aring</string>
       <string>Atilde</string>
+      <string>A.salt</string>
+      <string>Aacute.salt</string>
+      <string>Abreve.salt</string>
+      <string>Acircumflex.salt</string>
+      <string>Adieresis.salt</string>
+      <string>Agrave.salt</string>
+      <string>Amacron.salt</string>
+      <string>Aogonek.salt</string>
+      <string>Aring.salt</string>
+      <string>Atilde.salt</string>
     </array>
     <key>public.kern1.B</key>
     <array>
       <string>B</string>
+      <string>B.salt</string>
     </array>
     <key>public.kern1.C</key>
     <array>
@@ -26,6 +37,11 @@
       <string>Ccaron</string>
       <string>Ccedilla</string>
       <string>Cdotaccent</string>
+      <string>C.salt</string>
+      <string>Cacute.salt</string>
+      <string>Ccaron.salt</string>
+      <string>Ccedilla.salt</string>
+      <string>Cdotaccent.salt</string>
     </array>
     <key>public.kern1.Delta</key>
     <array>
@@ -44,10 +60,22 @@
       <string>Emacron</string>
       <string>Eogonek</string>
       <string>OE</string>
+      <string>AE.salt</string>
+      <string>E.salt</string>
+      <string>Eacute.salt</string>
+      <string>Ecaron.salt</string>
+      <string>Ecircumflex.salt</string>
+      <string>Edieresis.salt</string>
+      <string>Edotaccent.salt</string>
+      <string>Egrave.salt</string>
+      <string>Emacron.salt</string>
+      <string>Eogonek.salt</string>
+      <string>OE.salt</string>
     </array>
     <key>public.kern1.F</key>
     <array>
       <string>F</string>
+      <string>F.salt</string>
     </array>
     <key>public.kern1.G</key>
     <array>
@@ -55,6 +83,10 @@
       <string>Gbreve</string>
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
+      <string>G.salt</string>
+      <string>Gbreve.salt</string>
+      <string>Gcommaaccent.salt</string>
+      <string>Gdotaccent.salt</string>
     </array>
     <key>public.kern1.H</key>
     <array>
@@ -68,16 +100,30 @@
       <string>Igrave</string>
       <string>Imacron</string>
       <string>Iogonek</string>
+      <string>H.salt</string>
+      <string>Hbar.salt</string>
+      <string>I.salt</string>
+      <string>Iacute.salt</string>
+      <string>Icircumflex.salt</string>
+      <string>Idieresis.salt</string>
+      <string>Idotaccent.salt</string>
+      <string>Igrave.salt</string>
+      <string>Imacron.salt</string>
+      <string>Iogonek.salt</string>
     </array>
     <key>public.kern1.J</key>
     <array>
       <string>IJ</string>
       <string>J</string>
+      <string>IJ.salt</string>
+      <string>J.salt</string>
     </array>
     <key>public.kern1.K</key>
     <array>
       <string>K</string>
       <string>Kcommaaccent</string>
+      <string>K.salt</string>
+      <string>Kcommaaccent.salt</string>
     </array>
     <key>public.kern1.L</key>
     <array>
@@ -87,10 +133,17 @@
       <string>Lcommaaccent</string>
       <string>Ldot</string>
       <string>Lslash</string>
+      <string>L.salt</string>
+      <string>Lacute.salt</string>
+      <string>Lcaron.salt</string>
+      <string>Lcommaaccent.salt</string>
+      <string>Ldot.salt</string>
+      <string>Lslash.salt</string>
     </array>
     <key>public.kern1.M</key>
     <array>
       <string>M</string>
+      <string>M.salt</string>
     </array>
     <key>public.kern1.N</key>
     <array>
@@ -100,6 +153,12 @@
       <string>Ncommaaccent</string>
       <string>Eng</string>
       <string>Ntilde</string>
+      <string>N.salt</string>
+      <string>Nacute.salt</string>
+      <string>Ncaron.salt</string>
+      <string>Ncommaaccent.salt</string>
+      <string>Eng.salt</string>
+      <string>Ntilde.salt</string>
     </array>
     <key>public.kern1.O</key>
     <array>
@@ -117,10 +176,24 @@
       <string>Oslash</string>
       <string>Otilde</string>
       <string>Q</string>
+      <string>Eth.salt</string>
+      <string>Dcaron.salt</string>
+      <string>Dcroat.salt</string>
+      <string>O.salt</string>
+      <string>Oacute.salt</string>
+      <string>Ocircumflex.salt</string>
+      <string>Odieresis.salt</string>
+      <string>Ograve.salt</string>
+      <string>Ohungarumlaut.salt</string>
+      <string>Omacron.salt</string>
+      <string>Oslash.salt</string>
+      <string>Otilde.salt</string>
+      <string>Q.salt</string>
     </array>
     <key>public.kern1.P</key>
     <array>
       <string>P</string>
+      <string>P.salt</string>
     </array>
     <key>public.kern1.R</key>
     <array>
@@ -128,6 +201,10 @@
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>R.salt</string>
+      <string>Racute.salt</string>
+      <string>Rcaron.salt</string>
+      <string>Rcommaaccent.salt</string>
     </array>
     <key>public.kern1.S</key>
     <array>
@@ -136,6 +213,11 @@
       <string>Scaron</string>
       <string>Scedilla</string>
       <string>Scommaaccent</string>
+      <string>S.salt</string>
+      <string>Sacute.salt</string>
+      <string>Scaron.salt</string>
+      <string>Scedilla.salt</string>
+      <string>Scommaaccent.salt</string>
     </array>
     <key>public.kern1.T</key>
     <array>
@@ -144,10 +226,15 @@
       <string>Tcaron</string>
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
+      <string>Tbar.salt</string>
+      <string>Tcaron.salt</string>
+      <string>Tcedilla.salt</string>
+      <string>Tcommaaccent.salt</string>
     </array>
     <key>public.kern1.Thorn</key>
     <array>
       <string>Thorn</string>
+      <string>Thorn.salt</string>
     </array>
     <key>public.kern1.U</key>
     <array>
@@ -160,10 +247,20 @@
       <string>Umacron</string>
       <string>Uogonek</string>
       <string>Uring</string>
+      <string>U.salt</string>
+      <string>Uacute.salt</string>
+      <string>Ucircumflex.salt</string>
+      <string>Udieresis.salt</string>
+      <string>Ugrave.salt</string>
+      <string>Uhungarumlaut.salt</string>
+      <string>Umacron.salt</string>
+      <string>Uogonek.salt</string>
+      <string>Uring.salt</string>
     </array>
     <key>public.kern1.V</key>
     <array>
       <string>V</string>
+      <string>V.salt</string>
     </array>
     <key>public.kern1.W</key>
     <array>
@@ -172,10 +269,16 @@
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
       <string>Wgrave</string>
+      <string>W.salt</string>
+      <string>Wacute.salt</string>
+      <string>Wcircumflex.salt</string>
+      <string>Wdieresis.salt</string>
+      <string>Wgrave.salt</string>
     </array>
     <key>public.kern1.X</key>
     <array>
       <string>X</string>
+      <string>X.salt</string>
     </array>
     <key>public.kern1.Y</key>
     <array>
@@ -184,6 +287,11 @@
       <string>Ycircumflex</string>
       <string>Ydieresis</string>
       <string>Ygrave</string>
+      <string>Y.salt</string>
+      <string>Yacute.salt</string>
+      <string>Ycircumflex.salt</string>
+      <string>Ydieresis.salt</string>
+      <string>Ygrave.salt</string>
     </array>
     <key>public.kern1.Z</key>
     <array>
@@ -191,6 +299,10 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Z.salt</string>
+      <string>Zacute.salt</string>
+      <string>Zcaron.salt</string>
+      <string>Zdotaccent.salt</string>
     </array>
     <key>public.kern1.a</key>
     <array>
@@ -343,6 +455,7 @@
       <string>oslash</string>
       <string>otilde</string>
       <string>q</string>
+      <string>D.salt</string>
     </array>
     <key>public.kern1.one</key>
     <array>
@@ -406,6 +519,7 @@
       <string>tcaron</string>
       <string>tcedilla</string>
       <string>tcommaaccent</string>
+      <string>T.salt</string>
     </array>
     <key>public.kern1.thorn</key>
     <array>
@@ -479,6 +593,24 @@
       <string>Aring</string>
       <string>Atilde</string>
       <string>AE</string>
+      <string>Aacute.salt</string>
+      <string>Abreve.salt</string>
+      <string>Acircumflex.salt</string>
+      <string>Adieresis.salt</string>
+      <string>Agrave.salt</string>
+      <string>Amacron.salt</string>
+      <string>Aogonek.salt</string>
+      <string>Aring.salt</string>
+      <string>Atilde.salt</string>
+      <string>AE.salt</string>
+    </array>
+    <key>public.kern2.B</key>
+    <array>
+      <string>B.salt</string>
+    </array>
+    <key>public.kern2.D</key>
+    <array>
+      <string>D.salt</string>
     </array>
     <key>public.kern2.Delta</key>
     <array>
@@ -526,14 +658,57 @@
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>Dcaron.salt</string>
+      <string>Dcroat.salt</string>
+      <string>E.salt</string>
+      <string>Eacute.salt</string>
+      <string>Ecaron.salt</string>
+      <string>Ecircumflex.salt</string>
+      <string>Edieresis.salt</string>
+      <string>Edotaccent.salt</string>
+      <string>Egrave.salt</string>
+      <string>Emacron.salt</string>
+      <string>Eogonek.salt</string>
+      <string>F.salt</string>
+      <string>H.salt</string>
+      <string>Hbar.salt</string>
+      <string>IJ.salt</string>
+      <string>Iacute.salt</string>
+      <string>Icircumflex.salt</string>
+      <string>Idieresis.salt</string>
+      <string>Idotaccent.salt</string>
+      <string>Igrave.salt</string>
+      <string>Imacron.salt</string>
+      <string>Iogonek.salt</string>
+      <string>K.salt</string>
+      <string>Kcommaaccent.salt</string>
+      <string>L.salt</string>
+      <string>Lacute.salt</string>
+      <string>Lcaron.salt</string>
+      <string>Lcommaaccent.salt</string>
+      <string>Ldot.salt</string>
+      <string>Lslash.salt</string>
+      <string>N.salt</string>
+      <string>P.salt</string>
+      <string>Thorn.salt</string>
+      <string>R.salt</string>
+      <string>Racute.salt</string>
+      <string>Rcaron.salt</string>
+      <string>Rcommaaccent.salt</string>
+    </array>
+    <key>public.kern2.I</key>
+    <array>
+      <string>I.salt</string>
     </array>
     <key>public.kern2.J</key>
     <array>
       <string>J</string>
+      <string>J.salt</string>
     </array>
     <key>public.kern2.M</key>
     <array>
       <string>M</string>
+      <string>M.salt</string>
     </array>
     <key>public.kern2.N</key>
     <array>
@@ -542,6 +717,11 @@
       <string>Ncommaaccent</string>
       <string>Eng</string>
       <string>Ntilde</string>
+      <string>Nacute.salt</string>
+      <string>Ncaron.salt</string>
+      <string>Ncommaaccent.salt</string>
+      <string>Eng.salt</string>
+      <string>Ntilde.salt</string>
     </array>
     <key>public.kern2.O</key>
     <array>
@@ -565,6 +745,26 @@
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
+      <string>C.salt</string>
+      <string>Cacute.salt</string>
+      <string>Ccaron.salt</string>
+      <string>Ccedilla.salt</string>
+      <string>Cdotaccent.salt</string>
+      <string>G.salt</string>
+      <string>Gbreve.salt</string>
+      <string>Gcommaaccent.salt</string>
+      <string>Gdotaccent.salt</string>
+      <string>O.salt</string>
+      <string>Oacute.salt</string>
+      <string>Ocircumflex.salt</string>
+      <string>Odieresis.salt</string>
+      <string>Ograve.salt</string>
+      <string>Ohungarumlaut.salt</string>
+      <string>Omacron.salt</string>
+      <string>Oslash.salt</string>
+      <string>Otilde.salt</string>
+      <string>OE.salt</string>
+      <string>Q.salt</string>
     </array>
     <key>public.kern2.S</key>
     <array>
@@ -573,6 +773,11 @@
       <string>Scaron</string>
       <string>Scedilla</string>
       <string>Scommaaccent</string>
+      <string>S.salt</string>
+      <string>Sacute.salt</string>
+      <string>Scaron.salt</string>
+      <string>Scedilla.salt</string>
+      <string>Scommaaccent.salt</string>
     </array>
     <key>public.kern2.T</key>
     <array>
@@ -581,6 +786,11 @@
       <string>Tcaron</string>
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
+      <string>T.salt</string>
+      <string>Tbar.salt</string>
+      <string>Tcaron.salt</string>
+      <string>Tcedilla.salt</string>
+      <string>Tcommaaccent.salt</string>
     </array>
     <key>public.kern2.U</key>
     <array>
@@ -593,6 +803,13 @@
       <string>Umacron</string>
       <string>Uogonek</string>
       <string>Uring</string>
+      <string>Ucircumflex.salt</string>
+      <string>Udieresis.salt</string>
+      <string>Ugrave.salt</string>
+      <string>Uhungarumlaut.salt</string>
+      <string>Umacron.salt</string>
+      <string>Uogonek.salt</string>
+      <string>Uring.salt</string>
     </array>
     <key>public.kern2.V</key>
     <array>
@@ -605,10 +822,15 @@
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
       <string>Wgrave</string>
+      <string>Wacute.salt</string>
+      <string>Wcircumflex.salt</string>
+      <string>Wdieresis.salt</string>
+      <string>Wgrave.salt</string>
     </array>
     <key>public.kern2.X</key>
     <array>
       <string>X</string>
+      <string>X.salt</string>
     </array>
     <key>public.kern2.Y</key>
     <array>
@@ -617,6 +839,11 @@
       <string>Ycircumflex</string>
       <string>Ydieresis</string>
       <string>Ygrave</string>
+      <string>Y.salt</string>
+      <string>Yacute.salt</string>
+      <string>Ycircumflex.salt</string>
+      <string>Ydieresis.salt</string>
+      <string>Ygrave.salt</string>
     </array>
     <key>public.kern2.Z</key>
     <array>
@@ -624,6 +851,9 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Zacute.salt</string>
+      <string>Zcaron.salt</string>
+      <string>Zdotaccent.salt</string>
     </array>
     <key>public.kern2.a</key>
     <array>
@@ -638,6 +868,7 @@
       <string>aring</string>
       <string>atilde</string>
       <string>ae</string>
+      <string>A.salt</string>
     </array>
     <key>public.kern2.colon</key>
     <array>
@@ -835,10 +1066,13 @@
       <string>umacron</string>
       <string>uogonek</string>
       <string>uring</string>
+      <string>U.salt</string>
+      <string>Uacute.salt</string>
     </array>
     <key>public.kern2.v</key>
     <array>
       <string>v</string>
+      <string>V.salt</string>
     </array>
     <key>public.kern2.w</key>
     <array>
@@ -847,6 +1081,7 @@
       <string>wcircumflex</string>
       <string>wdieresis</string>
       <string>wgrave</string>
+      <string>W.salt</string>
     </array>
     <key>public.kern2.x</key>
     <array>
@@ -866,6 +1101,7 @@
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
+      <string>Z.salt</string>
     </array>
     <key>public.kern2.zero</key>
     <array>
