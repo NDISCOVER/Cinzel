@@ -397,6 +397,7 @@
       <string>j</string>
       <string>fi</string>
       <string>pi</string>
+      <string>i.locl</string>
     </array>
     <key>public.kern1.hyphen</key>
     <array>
@@ -941,6 +942,7 @@
       <string>fi</string>
       <string>fl</string>
       <string>pi</string>
+      <string>i.locl</string>
     </array>
     <key>public.kern2.hyphen</key>
     <array>
