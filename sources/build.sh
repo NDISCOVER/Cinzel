@@ -14,14 +14,19 @@ echo "Generating Static fonts"
 mkdir -p ../fonts
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m CinzelDecorative.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m CinzelDecorative.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Cinzel.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
 fontmake -m Cinzel.designspace -o variable --output-path ../fonts/variable/Cinzel[wght].ttf
-fontmake -m CinzelDecorative.designspace -o variable --output-path ../fonts/variable/CinzelDecorative[wght].ttf
+# fontmake -m CinzelDecorative.designspace -o variable --output-path ../fonts/variable/CinzelDecorative[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
+
+echo "Generate Vollkorn SC VFs"
+python3 -m opentype_feature_freezer.cli -S -U Decorative -f ss01 -f ss02 ../fonts/variable/Cinzel\[wght\].ttf ../fonts/variable/CinzelDecorative\[wght\].ttf
+pyftsubset  --glyph-names --layout-features="*" --name-IDs="*" --unicodes="*" --output-file=../fonts/variable/CinzelDecorative\[wght\].subset.ttf ../fonts/variable/CinzelDecorative\[wght\].ttf
+mv ../fonts/variable/CinzelDecorative\[wght\].subset.ttf ../fonts/variable/CinzelDecorative\[wght\].ttf
 
 
 echo "Post processing"
