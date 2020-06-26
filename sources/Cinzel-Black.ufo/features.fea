@@ -271,10 +271,16 @@ feature locl {
 } locl;
 
 feature ss01 {
+featureNames {
+name "Decorative uppercase";
+};
 lookup lookup_ss01;
 } ss01;
 
 feature ss02 {
+featureNames {
+name "Lowercase as uppercase";
+};
     script latn;
     lookup ss02_lookup_0;
     lookup ss02_lookup_not_TRK;
