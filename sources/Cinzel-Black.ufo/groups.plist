@@ -103,6 +103,7 @@
       <string>H.salt</string>
       <string>Hbar.salt</string>
       <string>I.salt</string>
+      <string>I.ss01</string>
       <string>Iacute.salt</string>
       <string>Icircumflex.salt</string>
       <string>Idieresis.salt</string>
@@ -673,6 +674,7 @@
       <string>F.salt</string>
       <string>H.salt</string>
       <string>Hbar.salt</string>
+      <string>I.salt</string>
       <string>IJ.salt</string>
       <string>Iacute.salt</string>
       <string>Icircumflex.salt</string>
@@ -696,10 +698,6 @@
       <string>Racute.salt</string>
       <string>Rcaron.salt</string>
       <string>Rcommaaccent.salt</string>
-    </array>
-    <key>public.kern2.I</key>
-    <array>
-      <string>I.salt</string>
     </array>
     <key>public.kern2.J</key>
     <array>
