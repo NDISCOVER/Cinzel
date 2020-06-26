@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H_Emacron" format="2">
+  <advance width="1051"/>
+  <outline>
+    <component base="H_E"/>
+    <component base="macroncomb" xOffset="480" yOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Emacron</string>
+    </dict>
+  </lib>
+</glyph>

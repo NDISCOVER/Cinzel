@@ -152,6 +152,66 @@
     <string>H_.glif</string>
     <key>H.salt</key>
     <string>H_.salt.glif</string>
+    <key>H_E</key>
+    <string>H__E_.glif</string>
+    <key>H_E.salt</key>
+    <string>H__E_.salt.glif</string>
+    <key>H_Eacute</key>
+    <string>H__E_acute.glif</string>
+    <key>H_Eacute.salt</key>
+    <string>H__E_acute.salt.glif</string>
+    <key>H_Ecaron</key>
+    <string>H__E_caron.glif</string>
+    <key>H_Ecaron.salt</key>
+    <string>H__E_caron.salt.glif</string>
+    <key>H_Ecircumflex</key>
+    <string>H__E_circumflex.glif</string>
+    <key>H_Ecircumflex.salt</key>
+    <string>H__E_circumflex.salt.glif</string>
+    <key>H_Edieresis</key>
+    <string>H__E_dieresis.glif</string>
+    <key>H_Edieresis.salt</key>
+    <string>H__E_dieresis.salt.glif</string>
+    <key>H_Edotaccent</key>
+    <string>H__E_dotaccent.glif</string>
+    <key>H_Edotaccent.salt</key>
+    <string>H__E_dotaccent.salt.glif</string>
+    <key>H_Egrave</key>
+    <string>H__E_grave.glif</string>
+    <key>H_Egrave.salt</key>
+    <string>H__E_grave.salt.glif</string>
+    <key>H_Emacron</key>
+    <string>H__E_macron.glif</string>
+    <key>H_Emacron.salt</key>
+    <string>H__E_macron.salt.glif</string>
+    <key>H_Eogonek</key>
+    <string>H__E_ogonek.glif</string>
+    <key>H_Eogonek.salt</key>
+    <string>H__E_ogonek.salt.glif</string>
+    <key>H_F</key>
+    <string>H__F_.glif</string>
+    <key>H_F.salt</key>
+    <string>H__F_.salt.glif</string>
+    <key>H_K</key>
+    <string>H__K_.glif</string>
+    <key>H_K.salt</key>
+    <string>H__K_.salt.glif</string>
+    <key>H_L</key>
+    <string>H__L_.glif</string>
+    <key>H_L.salt</key>
+    <string>H__L_.salt.glif</string>
+    <key>H_P</key>
+    <string>H__P_.glif</string>
+    <key>H_R</key>
+    <string>H__R_.glif</string>
+    <key>H_R.salt</key>
+    <string>H__R_.salt.glif</string>
+    <key>H_Racute</key>
+    <string>H__R_acute.glif</string>
+    <key>H_Racute.salt</key>
+    <string>H__R_acute.salt.glif</string>
+    <key>H_Rcaron</key>
+    <string>H__R_caron.glif</string>
     <key>Hbar</key>
     <string>H_bar.glif</string>
     <key>Hbar.salt</key>
@@ -260,6 +320,10 @@
     <string>O_E_.glif</string>
     <key>OE.salt</key>
     <string>O_E_.salt.glif</string>
+    <key>O_O</key>
+    <string>O__O_.glif</string>
+    <key>O_Q</key>
+    <string>O__Q_.glif</string>
     <key>Oacute</key>
     <string>O_acute.glif</string>
     <key>Oacute.salt</key>

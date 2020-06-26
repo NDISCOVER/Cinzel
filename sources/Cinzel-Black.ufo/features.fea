@@ -291,3 +291,38 @@ feature ss02 {
     lookup ss02_lookup_0;
     lookup ss02_lookup_TRK;
 } ss02;
+
+feature dlig {
+sub H E by H_E;
+sub H Eacute by H_Eacute;
+sub H Ecaron by H_Ecaron;
+sub H Ecircumflex by H_Ecircumflex;
+sub H Edieresis by H_Edieresis;
+sub H Edotaccent by H_Edotaccent;
+sub H Egrave by H_Egrave;
+sub H Emacron by H_Emacron;
+sub H Eogonek by H_Eogonek;
+sub H F by H_F;
+sub H K by H_K;
+sub H L by H_L;
+sub H P by H_P;
+sub H R by H_R;
+sub H Racute by H_Racute;
+sub H Rcaron by H_Rcaron;
+sub O O by O_O;
+sub O Q by O_Q;
+sub H E.salt by H_E.salt;
+sub H Eacute.salt by H_Eacute.salt;
+sub H Ecaron.salt by H_Ecaron.salt;
+sub H Ecircumflex.salt by H_Ecircumflex.salt;
+sub H Edieresis.salt by H_Edieresis.salt;
+sub H Edotaccent.salt by H_Edotaccent.salt;
+sub H Egrave.salt by H_Egrave.salt;
+sub H Emacron.salt by H_Emacron.salt;
+sub H Eogonek.salt by H_Eogonek.salt;
+sub H F.salt by H_F.salt;
+sub H K.salt by H_K.salt;
+sub H L.salt by H_L.salt;
+sub H R.salt by H_R.salt;
+sub H Racute.salt by H_Racute.salt;
+} dlig;
