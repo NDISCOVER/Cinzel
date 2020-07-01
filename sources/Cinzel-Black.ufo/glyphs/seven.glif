@@ -5,27 +5,21 @@
   <outline>
     <contour>
       <point x="5" y="465" type="line"/>
-      <point x="33.218" y="698.125" type="line"/>
-      <point x="562.58" y="700" type="line"/>
-      <point x="434.965" y="403.481" type="line" smooth="yes"/>
-      <point x="393.045" y="306.079"/>
-      <point x="322.999" y="89.23"/>
-      <point x="297.691" y="0" type="curve"/>
-      <point x="127.691" y="0" type="line"/>
-      <point x="189.453" y="99.557"/>
-      <point x="315.874" y="323.723"/>
-      <point x="358.226" y="414.053" type="curve" smooth="yes"/>
-      <point x="410.245" y="525" type="line"/>
-      <point x="89.968" y="525" type="line"/>
-      <point x="49.985" y="525"/>
-      <point x="29.761" y="504.656"/>
+      <point x="33" y="698" type="line"/>
+      <point x="563" y="700" type="line"/>
+      <point x="435" y="403" type="line" smooth="yes"/>
+      <point x="393" y="306"/>
+      <point x="323" y="89"/>
+      <point x="298" y="0" type="curve"/>
+      <point x="128" y="0" type="line"/>
+      <point x="189" y="100"/>
+      <point x="316" y="324"/>
+      <point x="358" y="414" type="curve" smooth="yes"/>
+      <point x="410" y="525" type="line"/>
+      <point x="90" y="525" type="line"/>
+      <point x="50" y="525"/>
+      <point x="30" y="505"/>
       <point x="15" y="465" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/12 11:43:03</string>
-    </dict>
-  </lib>
 </glyph>

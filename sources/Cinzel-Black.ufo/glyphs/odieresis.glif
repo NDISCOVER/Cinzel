@@ -4,7 +4,7 @@
   <unicode hex="00F6"/>
   <outline>
     <component base="o"/>
-    <component base="dieresis" xOffset="105.931" yOffset="-9.07"/>
+    <component base="dieresiscomb" xOffset="106" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/29 15:10:34</string>
     </dict>
   </lib>
 </glyph>

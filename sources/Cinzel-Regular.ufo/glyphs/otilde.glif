@@ -4,7 +4,7 @@
   <unicode hex="00F5"/>
   <outline>
     <component base="o"/>
-    <component base="tilde" xOffset="110.816" yOffset="-36"/>
+    <component base="tildecomb" xOffset="111" yOffset="-36"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>o</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/29 15:10:34</string>
     </dict>
   </lib>
 </glyph>

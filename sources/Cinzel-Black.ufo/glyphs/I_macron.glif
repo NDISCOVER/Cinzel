@@ -4,7 +4,7 @@
   <unicode hex="012A"/>
   <outline>
     <component base="I"/>
-    <component base="macron" xOffset="-84.104" yOffset="92.418"/>
+    <component base="macroncomb" xOffset="-84" yOffset="92"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>I</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>I</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/27 18:11:54</string>
     </dict>
   </lib>
 </glyph>

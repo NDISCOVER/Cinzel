@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron.salt" format="2">
+  <advance width="841"/>
+  <outline>
+    <component base="N.salt"/>
+    <component base="caroncomb" xOffset="141" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N.001</string>
+    </dict>
+  </lib>
+</glyph>

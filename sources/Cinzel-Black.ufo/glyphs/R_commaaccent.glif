@@ -4,7 +4,7 @@
   <unicode hex="0156"/>
   <outline>
     <component base="R"/>
-    <component base="commaaccent" xOffset="384.451" yOffset="-64"/>
+    <component base="commaaccentcomb" xOffset="384" yOffset="-64"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>R</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>R</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/27 19:02:36</string>
     </dict>
   </lib>
 </glyph>

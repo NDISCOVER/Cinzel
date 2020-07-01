@@ -3,7 +3,7 @@
   <advance width="278"/>
   <unicode hex="201A"/>
   <outline>
-    <component base="comma" xScale="1.09524" yScale="1.09524" xOffset="-3.333" yOffset="0.179"/>
+    <component base="quoteright" yOffset="-668"/>
   </outline>
   <lib>
     <dict>
@@ -11,8 +11,6 @@
       <string>comma</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>comma</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/23 18:29:44</string>
     </dict>
   </lib>
 </glyph>

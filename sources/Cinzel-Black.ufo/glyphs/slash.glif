@@ -2,18 +2,13 @@
 <glyph name="slash" format="2">
   <advance width="439"/>
   <unicode hex="002F"/>
+  <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="370.514" y="723" type="line"/>
-      <point x="10" y="14.083" type="line"/>
-      <point x="68.656" y="-14" type="line"/>
-      <point x="429.594" y="696.502" type="line"/>
+      <point x="371" y="723" type="line"/>
+      <point x="10" y="14" type="line"/>
+      <point x="69" y="-14" type="line"/>
+      <point x="430" y="697" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/09 18:02:27</string>
-    </dict>
-  </lib>
 </glyph>

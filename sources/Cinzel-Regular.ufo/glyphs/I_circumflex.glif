@@ -4,7 +4,7 @@
   <unicode hex="00CE"/>
   <outline>
     <component base="I"/>
-    <component base="circumflex" xOffset="-107.799" yOffset="34"/>
+    <component base="circumflexcomb" xOffset="-108" yOffset="34"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>I</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>I</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/27 18:11:54</string>
     </dict>
   </lib>
 </glyph>

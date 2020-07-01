@@ -4,7 +4,7 @@
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
-    <component base="dotaccent" xOffset="41.083" yOffset="98.513"/>
+    <component base="dotaccentcomb" xOffset="41" yOffset="99"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>Z</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>Z</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/10 15:07:05</string>
     </dict>
   </lib>
 </glyph>

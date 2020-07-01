@@ -2,68 +2,66 @@
 <glyph name="a" format="2">
   <advance width="663"/>
   <unicode hex="0061"/>
-  <anchor x="460.38" y="10.333" name="ogonek"/>
-  <anchor x="332.127" y="664" name="top"/>
+  <anchor x="460" y="10" name="ogonek"/>
+  <anchor x="332" y="664" name="top"/>
   <outline>
     <contour>
-      <point x="336.339" y="614" type="line"/>
-      <point x="319.075" y="525" type="line"/>
-      <point x="532.104" y="6.095" type="line"/>
-      <point x="611.41" y="6.095" type="line"/>
+      <point x="336" y="614" type="line"/>
+      <point x="319" y="525" type="line"/>
+      <point x="532" y="6" type="line"/>
+      <point x="611" y="6" type="line"/>
     </contour>
     <contour>
-      <point x="143.248" y="72.681" type="curve"/>
-      <point x="83.86" y="73.013" type="line"/>
-      <point x="63.458" y="28.464"/>
-      <point x="30.658" y="10"/>
-      <point x="2.931" y="10" type="curve" smooth="yes"/>
-      <point x="2.931" y="10"/>
+      <point x="143" y="73" type="curve"/>
+      <point x="84" y="73" type="line"/>
+      <point x="63" y="28"/>
+      <point x="31" y="10"/>
+      <point x="3" y="10" type="curve" smooth="yes"/>
+      <point x="3" y="10"/>
       <point x="-5" y="10"/>
       <point x="-5" y="10" type="curve"/>
       <point x="-5" y="0" type="line"/>
-      <point x="185.542" y="0" type="line"/>
-      <point x="185.542" y="9.908" type="line"/>
-      <point x="177.594" y="9.908" type="line" smooth="yes"/>
-      <point x="154.253" y="9.908"/>
-      <point x="127.967" y="32.663"/>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="10" type="line"/>
+      <point x="178" y="10" type="line" smooth="yes"/>
+      <point x="154" y="10"/>
+      <point x="128" y="33"/>
     </contour>
     <contour>
-      <point x="336.339" y="614" type="line"/>
-      <point x="326.859" y="614" type="line"/>
-      <point x="324.802" y="587.84"/>
-      <point x="288.086" y="511"/>
-      <point x="288.372" y="511" type="curve"/>
-      <point x="51.133" y="3.095" type="line"/>
-      <point x="113.824" y="3.095" type="line"/>
-      <point x="342.809" y="545" type="line"/>
+      <point x="336" y="614" type="line"/>
+      <point x="327" y="614" type="line"/>
+      <point x="325" y="588"/>
+      <point x="288" y="511"/>
+      <point x="288" y="511" type="curve"/>
+      <point x="51" y="3" type="line"/>
+      <point x="114" y="3" type="line"/>
+      <point x="343" y="545" type="line"/>
     </contour>
     <contour>
-      <point x="454.01" y="233" type="line"/>
-      <point x="189.253" y="233" type="line"/>
-      <point x="189.253" y="203" type="line"/>
-      <point x="454.01" y="203" type="line"/>
+      <point x="454" y="233" type="line"/>
+      <point x="189" y="233" type="line"/>
+      <point x="189" y="203" type="line"/>
+      <point x="454" y="203" type="line"/>
     </contour>
     <contour>
-      <point x="504.901" y="72.681" type="line"/>
-      <point x="520.207" y="32.664"/>
-      <point x="493.891" y="9.91"/>
-      <point x="470.552" y="9.91" type="curve" smooth="yes"/>
-      <point x="462.602" y="9.91" type="line"/>
-      <point x="462.602" y="0" type="line"/>
-      <point x="668.018" y="0" type="line"/>
-      <point x="668.018" y="10" type="line"/>
-      <point x="668.018" y="10"/>
-      <point x="660.458" y="10"/>
-      <point x="660.458" y="10" type="curve" smooth="yes"/>
-      <point x="632.751" y="10"/>
-      <point x="601.397" y="28.464"/>
-      <point x="581.018" y="73.013" type="curve"/>
+      <point x="505" y="73" type="line"/>
+      <point x="520" y="33"/>
+      <point x="494" y="10"/>
+      <point x="471" y="10" type="curve" smooth="yes"/>
+      <point x="463" y="10" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="668" y="10" type="line"/>
+      <point x="668" y="10"/>
+      <point x="660" y="10"/>
+      <point x="660" y="10" type="curve" smooth="yes"/>
+      <point x="633" y="10"/>
+      <point x="601" y="28"/>
+      <point x="581" y="73" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/05/09 14:46:24</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>

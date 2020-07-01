@@ -4,7 +4,7 @@
   <unicode hex="00C9"/>
   <outline>
     <component base="E"/>
-    <component base="acute" xOffset="111.368" yOffset="18.029"/>
+    <component base="acutecomb" xOffset="111" yOffset="18"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>E</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>E</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/27 17:47:58</string>
     </dict>
   </lib>
 </glyph>

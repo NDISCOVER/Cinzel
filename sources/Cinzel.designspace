@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="900" default="400">
+      <map input="400" output="65"/>
+      <map input="700" output="150"/>
+      <map input="900" output="205"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Cinzel-Regular.ufo" name="Cinzel Regular" familyname="Cinzel" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="65"/>
+      </location>
+    </source>
+    <source filename="Cinzel-Black.ufo" name="Cinzel Black" familyname="Cinzel" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="205"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Cinzel Regular" familyname="Cinzel" stylename="Regular" filename="instance_ufos/Cinzel-Regular.ufo" stylemapfamilyname="Cinzel" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="65"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cinzel Bold" familyname="Cinzel" stylename="Bold" filename="instance_ufos/Cinzel-Bold.ufo" stylemapfamilyname="Cinzel" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Cinzel Black" familyname="Cinzel" stylename="Black" filename="instance_ufos/Cinzel-Black.ufo" stylemapfamilyname="Cinzel Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="205"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>29CFC173-9C98-4BE1-970A-002FF3BCF672</key>
+        <dict>
+          <key>HH</key>
+          <integer>50</integer>
+          <key>HV</key>
+          <integer>205</integer>
+          <key>OH</key>
+          <integer>50</integer>
+          <key>OV</key>
+          <integer>215</integer>
+          <key>nV</key>
+          <integer>185</integer>
+          <key>nd</key>
+          <integer>44</integer>
+          <key>oH</key>
+          <integer>44</integer>
+          <key>oV</key>
+          <integer>195</integer>
+        </dict>
+        <key>A24B85EF-CA04-493E-A47C-A7B61068A6D7</key>
+        <dict>
+          <key>HH</key>
+          <integer>30</integer>
+          <key>HV</key>
+          <integer>65</integer>
+          <key>OH</key>
+          <integer>30</integer>
+          <key>OV</key>
+          <integer>75</integer>
+          <key>nV</key>
+          <integer>64</integer>
+          <key>oV</key>
+          <integer>72</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

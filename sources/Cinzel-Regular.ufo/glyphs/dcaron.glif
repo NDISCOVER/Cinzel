@@ -4,7 +4,7 @@
   <unicode hex="010F"/>
   <outline>
     <component base="d"/>
-    <component base="caron" xOffset="102.934" yOffset="-63.731"/>
+    <component base="caroncomb" xOffset="103" yOffset="-64"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>d</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>d</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/29 14:48:56</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve_Q" format="2">
+  <advance width="1275"/>
+  <outline>
+    <component base="Ograve"/>
+    <component base="Q" xOffset="363"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ograve</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Q</string>
+    </dict>
+  </lib>
+</glyph>

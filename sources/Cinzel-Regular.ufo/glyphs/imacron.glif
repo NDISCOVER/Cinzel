@@ -4,7 +4,7 @@
   <unicode hex="012B"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="macron" xOffset="-138.835" yOffset="-7.582"/>
+    <component base="macroncomb" xOffset="-139" yOffset="-8"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>dotlessi</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>dotlessi</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/29 14:55:24</string>
     </dict>
   </lib>
 </glyph>

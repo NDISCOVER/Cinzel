@@ -2,19 +2,12 @@
 <glyph name="macron" format="2">
   <advance width="600"/>
   <unicode hex="00AF"/>
-  <anchor x="292.41" y="671.582" name="_top"/>
   <outline>
     <contour>
-      <point x="170.23" y="737.943" type="line"/>
-      <point x="170.23" y="702.943" type="line"/>
-      <point x="420.23" y="702.943" type="line"/>
-      <point x="420.23" y="737.943" type="line"/>
+      <point x="170" y="738" type="line"/>
+      <point x="170" y="703" type="line"/>
+      <point x="420" y="703" type="line"/>
+      <point x="420" y="738" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/05/08 11:09:51</string>
-    </dict>
-  </lib>
 </glyph>

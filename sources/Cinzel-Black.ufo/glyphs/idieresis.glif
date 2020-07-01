@@ -4,7 +4,7 @@
   <unicode hex="00EF"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-105.084" yOffset="-9.499"/>
+    <component base="dieresiscomb" xOffset="-105" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>dotlessi</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>dotlessi</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/29 14:55:24</string>
     </dict>
   </lib>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0173"/>
   <outline>
     <component base="u"/>
-    <component base="ogonek" xOffset="54.626" yOffset="-21.93"/>
+    <component base="ogonekcomb" xOffset="55" yOffset="-22"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/29 15:42:33</string>
     </dict>
   </lib>
 </glyph>

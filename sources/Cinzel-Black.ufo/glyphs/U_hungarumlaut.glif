@@ -4,7 +4,7 @@
   <unicode hex="0170"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlaut" xOffset="217.841" yOffset="21.029"/>
+    <component base="hungarumlautcomb" xOffset="218" yOffset="21"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>U</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>U</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/03/27 19:16:24</string>
     </dict>
   </lib>
 </glyph>

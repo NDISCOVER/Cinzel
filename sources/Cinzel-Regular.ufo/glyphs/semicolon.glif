@@ -4,7 +4,7 @@
   <unicode hex="003B"/>
   <outline>
     <component base="comma"/>
-    <component base="period" yOffset="411.23"/>
+    <component base="period" yOffset="411"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>period</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>period</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/10 16:04:46</string>
     </dict>
   </lib>
 </glyph>

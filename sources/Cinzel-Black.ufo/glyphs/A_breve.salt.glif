@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve.salt" format="2">
+  <advance width="702"/>
+  <outline>
+    <component base="A.salt"/>
+    <component base="brevecomb" xOffset="109" yOffset="74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A.001</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A.001</string>
+    </dict>
+  </lib>
+</glyph>

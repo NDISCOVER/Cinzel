@@ -6,26 +6,20 @@
     <contour>
       <point x="40" y="105" type="line"/>
       <point x="40" y="60" type="line"/>
-      <point x="441.723" y="60" type="line"/>
-      <point x="441.723" y="105" type="line"/>
+      <point x="442" y="60" type="line"/>
+      <point x="442" y="105" type="line"/>
     </contour>
     <contour>
-      <point x="218.362" y="178.891" type="line"/>
-      <point x="263.362" y="178.891" type="line"/>
-      <point x="263.362" y="580.614" type="line"/>
-      <point x="218.362" y="580.614" type="line"/>
+      <point x="218" y="179" type="line"/>
+      <point x="263" y="179" type="line"/>
+      <point x="263" y="581" type="line"/>
+      <point x="218" y="581" type="line"/>
     </contour>
     <contour>
-      <point x="40" y="402.253" type="line"/>
-      <point x="40" y="357.253" type="line"/>
-      <point x="441.723" y="357.253" type="line"/>
-      <point x="441.723" y="402.253" type="line"/>
+      <point x="40" y="402" type="line"/>
+      <point x="40" y="357" type="line"/>
+      <point x="442" y="357" type="line"/>
+      <point x="442" y="402" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/05/08 11:11:37</string>
-    </dict>
-  </lib>
 </glyph>

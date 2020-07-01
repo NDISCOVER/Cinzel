@@ -4,7 +4,7 @@
   <unicode hex="0163"/>
   <outline>
     <component base="t"/>
-    <component base="cedilla" xOffset="-18.633"/>
+    <component base="cedillacomb" xOffset="-19"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>t</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>t</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2012/04/09 12:38:46</string>
     </dict>
   </lib>
 </glyph>
