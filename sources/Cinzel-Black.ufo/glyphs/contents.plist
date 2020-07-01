@@ -330,6 +330,10 @@
     <string>O_acute.glif</string>
     <key>Oacute.salt</key>
     <string>O_acute.salt.glif</string>
+    <key>Oacute_O</key>
+    <string>O_acute_O_.glif</string>
+    <key>Oacute_Q</key>
+    <string>O_acute_Q_.glif</string>
     <key>Ocircumflex</key>
     <string>O_circumflex.glif</string>
     <key>Ocircumflex.salt</key>
@@ -338,10 +342,14 @@
     <string>O_dieresis.glif</string>
     <key>Odieresis.salt</key>
     <string>O_dieresis.salt.glif</string>
+    <key>Odieresis_Q</key>
+    <string>O_dieresis_Q_.glif</string>
     <key>Ograve</key>
     <string>O_grave.glif</string>
     <key>Ograve.salt</key>
     <string>O_grave.salt.glif</string>
+    <key>Ograve_Q</key>
+    <string>O_grave_Q_.glif</string>
     <key>Ohungarumlaut</key>
     <string>O_hungarumlaut.glif</string>
     <key>Ohungarumlaut.salt</key>
