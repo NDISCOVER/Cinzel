@@ -14,12 +14,10 @@ echo "Generating Static fonts"
 mkdir -p ../fonts
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-# fontmake -m CinzelDecorative.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Cinzel.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
 fontmake -m Cinzel.designspace -o variable --output-path ../fonts/variable/Cinzel[wght].ttf
-# fontmake -m CinzelDecorative.designspace -o variable --output-path ../fonts/variable/CinzelDecorative[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
