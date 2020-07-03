@@ -3,7 +3,7 @@
   <advance width="852"/>
   <outline>
     <component base="U.salt"/>
-    <component base="hungarumlaut" yxScale="0" xOffset="153" yOffset="21"/>
+    <component base="hungarumlautcomb" yxScale="0" xOffset="153" yOffset="21"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>hungarumlaut</string>
+          <string>hungarumlautcomb</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
