@@ -410,6 +410,8 @@
     <string>S_cedilla.salt.glif</string>
     <key>Scommaaccent</key>
     <string>S_commaaccent.glif</string>
+    <key>Scommaaccent.part</key>
+    <string>S_commaaccent.part.glif</string>
     <key>Scommaaccent.salt</key>
     <string>S_commaaccent.salt.glif</string>
     <key>T</key>

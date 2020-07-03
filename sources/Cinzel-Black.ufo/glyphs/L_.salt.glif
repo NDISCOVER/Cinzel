@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L.salt" format="2">
   <advance width="445"/>
-  <anchor x="274" y="-114" name="bottom"/>
+  <anchor x="274" y="-50" name="bottom"/>
   <anchor x="210" y="764" name="top"/>
   <outline>
     <contour>

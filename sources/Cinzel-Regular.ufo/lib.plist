@@ -423,6 +423,8 @@
       <string>uni0156.001</string>
       <key>Scommaaccent</key>
       <string>uni0218</string>
+      <key>Scommaaccent.part</key>
+      <string>uni0218.001</string>
       <key>Scommaaccent.salt</key>
       <string>uni0218.001</string>
       <key>Tcedilla</key>

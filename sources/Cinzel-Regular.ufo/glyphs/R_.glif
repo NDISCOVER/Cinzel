@@ -2,7 +2,7 @@
 <glyph name="R" format="2">
   <advance width="677"/>
   <unicode hex="0052"/>
-  <anchor x="378" y="-50" name="bottom"/>
+  <anchor x="378" y="0" name="bottom"/>
   <anchor x="324" y="764" name="top"/>
   <outline>
     <contour>
