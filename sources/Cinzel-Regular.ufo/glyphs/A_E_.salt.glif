@@ -103,7 +103,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>E.001</string>
+      <string>E.salt</string>
     </dict>
   </lib>
 </glyph>

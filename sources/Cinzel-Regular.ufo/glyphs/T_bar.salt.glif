@@ -71,9 +71,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>T.001</string>
+      <string>T.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>T.001</string>
+      <string>T.salt</string>
     </dict>
   </lib>
 </glyph>

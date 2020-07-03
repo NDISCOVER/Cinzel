@@ -8,9 +8,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>Y.001</string>
+      <string>Y.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>Y.001</string>
+      <string>Y.salt</string>
     </dict>
   </lib>
 </glyph>

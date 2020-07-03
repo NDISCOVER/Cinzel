@@ -62,9 +62,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>D.001</string>
+      <string>D.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>D.001</string>
+      <string>D.salt</string>
     </dict>
   </lib>
 </glyph>
