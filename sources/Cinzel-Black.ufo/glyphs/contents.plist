@@ -560,6 +560,8 @@
     <string>amacron.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>ampersand.salt</key>
+    <string>ampersand.salt.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
     <key>approxequal</key>
@@ -584,8 +586,12 @@
     <string>bar.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
+    <key>braceleft.salt</key>
+    <string>braceleft.salt.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
+    <key>braceright.salt</key>
+    <string>braceright.salt.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
     <key>bracketright</key>
@@ -598,6 +604,8 @@
     <string>brokenbar.glif</string>
     <key>bullet</key>
     <string>bullet.glif</string>
+    <key>bullet.salt</key>
+    <string>bullet.salt.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>cacute</key>
@@ -674,6 +682,8 @@
     <string>egrave.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>eight.salt</key>
+    <string>eight.salt.glif</string>
     <key>ellipsis</key>
     <string>ellipsis.glif</string>
     <key>emacron</key>
@@ -702,12 +712,16 @@
     <string>fi.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>five.salt</key>
+    <string>five.salt.glif</string>
     <key>fl</key>
     <string>fl.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>four.salt</key>
+    <string>four.salt.glif</string>
     <key>foursuperior</key>
     <string>foursuperior.glif</string>
     <key>fraction</key>
@@ -820,6 +834,8 @@
     <string>ncommaaccent.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
+    <key>nine.salt</key>
+    <string>nine.salt.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
     <key>ntilde</key>
@@ -848,6 +864,8 @@
     <string>omacron.glif</string>
     <key>one</key>
     <string>one.glif</string>
+    <key>one.salt</key>
+    <string>one.salt.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
     <key>onequarter</key>
@@ -878,6 +896,8 @@
     <string>period.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
+    <key>periodcentered.salt</key>
+    <string>periodcentered.salt.glif</string>
     <key>perthousand</key>
     <string>perthousand.glif</string>
     <key>pi</key>
@@ -942,8 +962,12 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>seven.salt</key>
+    <string>seven.salt.glif</string>
     <key>six</key>
     <string>six.glif</string>
+    <key>six.salt</key>
+    <string>six.salt.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>softhyphen</key>
@@ -968,6 +992,8 @@
     <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>three.salt</key>
+    <string>three.salt.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
     <key>threesuperior</key>
@@ -980,6 +1006,8 @@
     <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
+    <key>two.salt</key>
+    <string>two.salt.glif</string>
     <key>twosuperior</key>
     <string>twosuperior.glif</string>
     <key>u</key>
@@ -1038,5 +1066,7 @@
     <string>zdotaccent.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zero.salt</key>
+    <string>zero.salt.glif</string>
   </dict>
 </plist>
