@@ -3,7 +3,7 @@
   <advance width="852"/>
   <outline>
     <component base="U.salt"/>
-    <component base="hungarumlautcomb" yxScale="0" xOffset="153" yOffset="21"/>
+    <component base="hungarumlautcomb" xOffset="153" yOffset="21"/>
   </outline>
   <lib>
     <dict>

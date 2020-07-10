@@ -3,7 +3,7 @@
   <advance width="1275"/>
   <outline>
     <component base="Ograve"/>
-    <component base="Q" xOffset="363"/>
+    <component base="Q" xOffset="345"/>
   </outline>
   <lib>
     <dict>
