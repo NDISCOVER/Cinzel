@@ -31,6 +31,9 @@
     <key>public.kern1.B</key>
     <array>
       <string>B</string>
+    </array>
+    <key>public.kern1.B.salt</key>
+    <array>
       <string>B.salt</string>
     </array>
     <key>public.kern1.C</key>
@@ -40,6 +43,9 @@
       <string>Ccaron</string>
       <string>Ccedilla</string>
       <string>Cdotaccent</string>
+    </array>
+    <key>public.kern1.C.salt</key>
+    <array>
       <string>C.salt</string>
       <string>Cacute.salt</string>
       <string>Ccaron.salt</string>
