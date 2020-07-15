@@ -259,6 +259,8 @@ lookup ss02_lookup_0 {
     sub zacute by Zacute;
     sub zcaron by Zcaron;
     sub zdotaccent by Zdotaccent;
+    sub fi by fi.ss02;
+    sub fl by fl.ss02;
 } ss02_lookup_0;
 
 lookup ss02_lookup_not_TRK {

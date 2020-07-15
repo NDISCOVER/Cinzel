@@ -724,12 +724,16 @@
     <string>f.glif</string>
     <key>fi</key>
     <string>fi.glif</string>
+    <key>fi.ss02</key>
+    <string>fi.ss02.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>five.salt</key>
     <string>five.salt.glif</string>
     <key>fl</key>
     <string>fl.glif</string>
+    <key>fl.ss02</key>
+    <string>fl.ss02.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
     <key>four</key>
