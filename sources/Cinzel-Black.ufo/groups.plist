@@ -322,6 +322,11 @@
       <string>Wcircumflex.salt</string>
       <string>Wdieresis.salt</string>
       <string>Wgrave.salt</string>
+      <string>W.salt.alt1</string>
+      <string>Wacute.salt.alt1</string>
+      <string>Wcircumflex.salt.alt1</string>
+      <string>Wdieresis.salt.alt1</string>
+      <string>Wgrave.salt.alt1</string>
     </array>
     <key>public.kern1.X</key>
     <array>
@@ -330,6 +335,7 @@
     <key>public.kern1.X.salt</key>
     <array>
       <string>X.salt</string>
+      <string>X.salt.alt1</string>
     </array>
     <key>public.kern1.Y</key>
     <array>
@@ -913,6 +919,14 @@
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
       <string>Wgrave</string>
+      <string>W.salt.alt1</string>
+      <string>Wacute.salt.alt1</string>
+      <string>Wcircumflex.salt.alt1</string>
+      <string>Wdieresis.salt.alt1</string>
+      <string>Wgrave.salt.alt1</string>
+    </array>
+    <key>public.kern2.W.salt</key>
+    <array>
       <string>W.salt</string>
       <string>Wacute.salt</string>
       <string>Wcircumflex.salt</string>
@@ -922,6 +936,7 @@
     <key>public.kern2.X</key>
     <array>
       <string>X</string>
+      <string>X.salt.alt1</string>
     </array>
     <key>public.kern2.X.salt</key>
     <array>
