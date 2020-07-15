@@ -2175,6 +2175,8 @@
       <integer>-150</integer>
       <key>public.kern2.A.salt</key>
       <integer>-50</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-80</integer>
       <key>public.kern2.M</key>
       <integer>-20</integer>
       <key>public.kern2.M.salt</key>
