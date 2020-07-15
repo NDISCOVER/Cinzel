@@ -88,6 +88,9 @@
     <key>public.kern1.F</key>
     <array>
       <string>F</string>
+    </array>
+    <key>public.kern1.F.salt</key>
+    <array>
       <string>F.salt</string>
     </array>
     <key>public.kern1.G</key>
