@@ -4,6 +4,10 @@
 
 @ALTWX = [ W.salt.alt1 Wacute.salt.alt1 Wcircumflex.salt.alt1 Wdieresis.salt.alt1 Wgrave.salt.alt1 X.salt.alt1 ];
 
+@FIGURES = [ zero one two three four five six seven eight nine ];
+
+@ONUM_FIGURES = [ zero.salt one.salt two.salt three.salt four.salt five.salt six.salt seven.salt eight.salt nine.salt ];
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 
@@ -18,6 +22,10 @@ lookup locl_TRK {
     sub i by i.locl;
     sub I.ss02 by Idotaccent;
 } locl_TRK ;
+
+lookup lookup_onum {
+    sub @FIGURES by @ONUM_FIGURES;
+} lookup_onum;
 
 lookup lookup_ss01 {
     sub A by A.salt;
@@ -143,7 +151,6 @@ lookup lookup_ss01 {
     sub guillemotright by guillemotright.salt;
     sub guilsinglleft by guilsinglleft.salt;
     sub guilsinglright by guilsinglright.salt;
-    sub [zero one two three four five six seven eight nine] by [zero.salt one.salt two.salt three.salt four.salt five.salt six.salt seven.salt eight.salt nine.salt];
 } lookup_ss01;
 
 lookup ss02_lookup_0 {
@@ -293,6 +300,10 @@ feature locl {
     language TRK;
     lookup locl_TRK;
 } locl;
+
+feature onum {
+lookup lookup_onum;
+} onum;
 
 feature ss01 {
 featureNames {
