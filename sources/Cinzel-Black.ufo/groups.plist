@@ -130,6 +130,7 @@
       <string>Igrave.salt</string>
       <string>Imacron.salt</string>
       <string>Iogonek.salt</string>
+      <string>fi.ss02</string>
     </array>
     <key>public.kern1.J</key>
     <array>
@@ -159,6 +160,7 @@
       <string>Lcommaaccent</string>
       <string>Ldot</string>
       <string>Lslash</string>
+      <string>fl.ss02</string>
     </array>
     <key>public.kern1.L.salt</key>
     <array>
@@ -748,6 +750,8 @@
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>fi.ss02</string>
+      <string>fl.ss02</string>
     </array>
     <key>public.kern2.H.salt</key>
     <array>
