@@ -309,7 +309,7 @@ lookup ss02_lookup_TRK{
 } ss02_lookup_TRK;
 
 lookup calt_WX {
-    sub @LOWSALT '@LOWWX by @ALTWX;
+    sub @LOWSALT @LOWWX' by @ALTWX;
 } calt_WX;
 
 
