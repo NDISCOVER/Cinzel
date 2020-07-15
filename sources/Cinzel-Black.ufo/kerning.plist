@@ -104,6 +104,8 @@
       <integer>-125</integer>
       <key>public.kern2.W</key>
       <integer>-100</integer>
+      <key>public.kern2.W.salt</key>
+      <integer>-100</integer>
       <key>public.kern2.Y</key>
       <integer>-110</integer>
       <key>public.kern2.colon</key>
@@ -1544,6 +1546,8 @@
       <integer>-25</integer>
       <key>public.kern2.A</key>
       <integer>-120</integer>
+      <key>public.kern2.A.salt</key>
+      <integer>-40</integer>
       <key>public.kern2.M</key>
       <integer>-35</integer>
       <key>public.kern2.O</key>

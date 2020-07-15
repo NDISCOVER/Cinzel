@@ -83,6 +83,7 @@
       <string>Emacron.salt</string>
       <string>Eogonek.salt</string>
       <string>OE.salt</string>
+      <string>AE.salt.alt1</string>
     </array>
     <key>public.kern1.F</key>
     <array>
@@ -680,8 +681,15 @@
       <string>Aogonek.salt</string>
       <string>Aring.salt</string>
       <string>Atilde.salt</string>
-      <string>AE.salt</string>
       <string>A.salt</string>
+    </array>
+    <key>public.kern2.AE</key>
+    <array>
+      <string>AE.salt.alt1</string>
+    </array>
+    <key>public.kern2.AE.salt</key>
+    <array>
+      <string>AE.salt</string>
     </array>
     <key>public.kern2.B.salt</key>
     <array>

@@ -1364,7 +1364,7 @@
       <key>public.kern2.A</key>
       <integer>-120</integer>
       <key>public.kern2.A.salt</key>
-      <integer>-40</integer>
+      <integer>-120</integer>
       <key>public.kern2.D.salt</key>
       <integer>40</integer>
       <key>public.kern2.H.salt</key>
