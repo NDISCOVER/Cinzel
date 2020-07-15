@@ -307,6 +307,8 @@
       <integer>15</integer>
       <key>public.kern2.A</key>
       <integer>-70</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-60</integer>
       <key>public.kern2.M</key>
       <integer>-30</integer>
       <key>public.kern2.O</key>
@@ -437,6 +439,8 @@
     </dict>
     <key>public.kern1.J</key>
     <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>70</integer>
       <key>public.kern2.o</key>
       <integer>-10</integer>
     </dict>
@@ -457,6 +461,8 @@
     <dict>
       <key>backslash</key>
       <integer>20</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>30</integer>
       <key>public.kern2.O</key>
       <integer>-30</integer>
       <key>public.kern2.hyphen</key>
@@ -830,6 +836,8 @@
       <integer>-80</integer>
       <key>public.kern2.A</key>
       <integer>-30</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>30</integer>
       <key>public.kern2.B.salt</key>
       <integer>-40</integer>
       <key>public.kern2.H</key>
@@ -947,6 +955,8 @@
     <dict>
       <key>asterisk</key>
       <integer>-40</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>40</integer>
       <key>public.kern2.B.salt</key>
       <integer>34</integer>
       <key>public.kern2.I.salt</key>
@@ -1078,6 +1088,8 @@
       <integer>-105</integer>
       <key>public.kern2.A.salt</key>
       <integer>-105</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-100</integer>
       <key>public.kern2.M</key>
       <integer>-20</integer>
       <key>public.kern2.O</key>
@@ -1125,6 +1137,8 @@
       <integer>-105</integer>
       <key>public.kern2.A.salt</key>
       <integer>-105</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-80</integer>
       <key>public.kern2.I.salt</key>
       <integer>40</integer>
       <key>public.kern2.M</key>
@@ -1164,6 +1178,8 @@
       <integer>20</integer>
       <key>public.kern2.A</key>
       <integer>-85</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-70</integer>
       <key>public.kern2.M</key>
       <integer>-10</integer>
       <key>public.kern2.O</key>

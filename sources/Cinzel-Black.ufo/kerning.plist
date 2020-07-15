@@ -25,6 +25,16 @@
       <key>public.kern2.V.salt</key>
       <integer>-25</integer>
     </dict>
+    <key>Tcedilla</key>
+    <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>100</integer>
+    </dict>
+    <key>Tcedilla.salt</key>
+    <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>100</integer>
+    </dict>
     <key>backslash</key>
     <dict>
       <key>public.kern2.A</key>
@@ -88,6 +98,8 @@
       <integer>-150</integer>
       <key>backslash</key>
       <integer>-115</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>160</integer>
       <key>public.kern2.I.salt</key>
       <integer>-50</integer>
       <key>public.kern2.O</key>
@@ -192,6 +204,8 @@
     <dict>
       <key>asterisk</key>
       <integer>-35</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>50</integer>
       <key>public.kern2.J</key>
       <integer>-10</integer>
       <key>public.kern2.O</key>
@@ -258,6 +272,8 @@
     </dict>
     <key>public.kern1.C</key>
     <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>50</integer>
       <key>public.kern2.H</key>
       <integer>-5</integer>
       <key>public.kern2.I.salt</key>
@@ -280,6 +296,8 @@
     </dict>
     <key>public.kern1.E</key>
     <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>90</integer>
       <key>public.kern2.O.salt</key>
       <integer>20</integer>
       <key>public.kern2.o</key>
@@ -430,6 +448,8 @@
       <integer>-10</integer>
       <key>public.kern2.A</key>
       <integer>-10</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>100</integer>
       <key>public.kern2.H</key>
       <integer>0</integer>
       <key>public.kern2.H.salt</key>
@@ -472,6 +492,8 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>-30</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>220</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
       <key>public.kern2.a</key>
@@ -492,6 +514,8 @@
     </dict>
     <key>public.kern1.K</key>
     <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>150</integer>
       <key>public.kern2.O</key>
       <integer>-40</integer>
       <key>public.kern2.O.salt</key>
@@ -534,6 +558,8 @@
       <integer>-120</integer>
       <key>backslash</key>
       <integer>-30</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>110</integer>
       <key>public.kern2.I.salt</key>
       <integer>-30</integer>
       <key>public.kern2.O.salt</key>
@@ -590,6 +616,8 @@
     <dict>
       <key>asterisk</key>
       <integer>-65</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>130</integer>
       <key>public.kern2.O</key>
       <integer>-5</integer>
       <key>public.kern2.O.salt</key>
@@ -652,6 +680,8 @@
     </dict>
     <key>public.kern1.N</key>
     <dict>
+      <key>public.kern2.AE.salt</key>
+      <integer>70</integer>
       <key>public.kern2.H</key>
       <integer>-20</integer>
       <key>public.kern2.O</key>
@@ -696,6 +726,8 @@
       <integer>-40</integer>
       <key>public.kern2.A</key>
       <integer>-30</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>0</integer>
       <key>public.kern2.H</key>
       <integer>-20</integer>
       <key>public.kern2.H.salt</key>
@@ -806,6 +838,8 @@
       <integer>-65</integer>
       <key>public.kern2.A.salt</key>
       <integer>-65</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-70</integer>
       <key>public.kern2.I.salt</key>
       <integer>40</integer>
       <key>public.kern2.M</key>
@@ -849,6 +883,8 @@
     <dict>
       <key>asterisk</key>
       <integer>-55</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>200</integer>
       <key>public.kern2.M</key>
       <integer>10</integer>
       <key>public.kern2.O</key>
@@ -974,6 +1010,8 @@
     <dict>
       <key>asterisk</key>
       <integer>-50</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>150</integer>
       <key>public.kern2.H.salt</key>
       <integer>-10</integer>
       <key>public.kern2.M.salt</key>
@@ -993,6 +1031,8 @@
       <integer>25</integer>
       <key>public.kern2.A</key>
       <integer>-100</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>0</integer>
       <key>public.kern2.H</key>
       <integer>0</integer>
       <key>public.kern2.I.salt</key>
@@ -1113,6 +1153,8 @@
       <integer>-120</integer>
       <key>public.kern2.A.salt</key>
       <integer>-120</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-40</integer>
       <key>public.kern2.I.salt</key>
       <integer>30</integer>
       <key>public.kern2.M</key>
@@ -1186,6 +1228,8 @@
       <integer>-125</integer>
       <key>public.kern2.A.salt</key>
       <integer>0</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-10</integer>
       <key>public.kern2.I.salt</key>
       <integer>30</integer>
       <key>public.kern2.M</key>
@@ -1345,6 +1389,8 @@
     <dict>
       <key>exclam</key>
       <integer>20</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>170</integer>
       <key>public.kern2.O</key>
       <integer>-38</integer>
       <key>public.kern2.O.salt</key>
@@ -1527,6 +1573,8 @@
     <dict>
       <key>asterisk</key>
       <integer>-25</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>70</integer>
       <key>public.kern2.V</key>
       <integer>20</integer>
       <key>public.kern2.W</key>
