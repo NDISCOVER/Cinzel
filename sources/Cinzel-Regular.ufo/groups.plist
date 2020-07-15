@@ -432,11 +432,17 @@
     <key>public.kern1.five</key>
     <array>
       <string>five</string>
+    </array>
+    <key>public.kern1.five.salt</key>
+    <array>
       <string>five.salt</string>
     </array>
     <key>public.kern1.four</key>
     <array>
       <string>four</string>
+    </array>
+    <key>public.kern1.four.salt</key>
+    <array>
       <string>four.salt</string>
     </array>
     <key>public.kern1.g</key>
@@ -514,6 +520,9 @@
     <key>public.kern1.nine</key>
     <array>
       <string>nine</string>
+    </array>
+    <key>public.kern1.nine.salt</key>
+    <array>
       <string>nine.salt</string>
     </array>
     <key>public.kern1.o</key>
@@ -536,6 +545,9 @@
     <key>public.kern1.one</key>
     <array>
       <string>one</string>
+    </array>
+    <key>public.kern1.one.salt</key>
+    <array>
       <string>one.salt</string>
     </array>
     <key>public.kern1.p</key>
@@ -584,6 +596,9 @@
     <key>public.kern1.seven</key>
     <array>
       <string>seven</string>
+    </array>
+    <key>public.kern1.seven.salt</key>
+    <array>
       <string>seven.salt</string>
     </array>
     <key>public.kern1.six</key>
@@ -606,11 +621,17 @@
     <key>public.kern1.three</key>
     <array>
       <string>three</string>
+    </array>
+    <key>public.kern1.three.salt</key>
+    <array>
       <string>three.salt</string>
     </array>
     <key>public.kern1.two</key>
     <array>
       <string>two</string>
+    </array>
+    <key>public.kern1.two.salt</key>
+    <array>
       <string>two.salt</string>
     </array>
     <key>public.kern1.u</key>
@@ -659,6 +680,9 @@
     <key>public.kern1.zero</key>
     <array>
       <string>zero</string>
+    </array>
+    <key>public.kern1.zero.salt</key>
+    <array>
       <string>zero.salt</string>
     </array>
     <key>public.kern2.A</key>
@@ -1017,11 +1041,17 @@
     <key>public.kern2.five</key>
     <array>
       <string>five</string>
+    </array>
+    <key>public.kern2.five.salt</key>
+    <array>
       <string>five.salt</string>
     </array>
     <key>public.kern2.four</key>
     <array>
       <string>four</string>
+    </array>
+    <key>public.kern2.four.salt</key>
+    <array>
       <string>four.salt</string>
     </array>
     <key>public.kern2.guillemotleft</key>
@@ -1109,6 +1139,9 @@
     <key>public.kern2.nine</key>
     <array>
       <string>nine</string>
+    </array>
+    <key>public.kern2.nine.salt</key>
+    <array>
       <string>nine.salt</string>
     </array>
     <key>public.kern2.o</key>
@@ -1137,6 +1170,9 @@
     <key>public.kern2.one</key>
     <array>
       <string>one</string>
+    </array>
+    <key>public.kern2.one.salt</key>
+    <array>
       <string>one.salt</string>
     </array>
     <key>public.kern2.period</key>
@@ -1174,6 +1210,9 @@
     <key>public.kern2.seven</key>
     <array>
       <string>seven</string>
+    </array>
+    <key>public.kern2.seven.salt</key>
+    <array>
       <string>seven.salt</string>
     </array>
     <key>public.kern2.six</key>
@@ -1192,11 +1231,17 @@
     <key>public.kern2.three</key>
     <array>
       <string>three</string>
+    </array>
+    <key>public.kern2.three.salt</key>
+    <array>
       <string>three.salt</string>
     </array>
     <key>public.kern2.two</key>
     <array>
       <string>two</string>
+    </array>
+    <key>public.kern2.two.salt</key>
+    <array>
       <string>two.salt</string>
     </array>
     <key>public.kern2.u</key>
@@ -1245,6 +1290,9 @@
     <key>public.kern2.zero</key>
     <array>
       <string>zero</string>
+    </array>
+    <key>public.kern2.zero.salt</key>
+    <array>
       <string>zero.salt</string>
     </array>
   </dict>
