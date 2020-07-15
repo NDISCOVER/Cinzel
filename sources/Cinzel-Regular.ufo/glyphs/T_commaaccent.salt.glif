@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcommaaccent.salt" format="2">
-  <advance width="618"/>
+  <advance width="710"/>
   <outline>
     <component base="T.salt"/>
-    <component base="commaaccentcomb" xOffset="243"/>
+    <component base="commaaccentcomb" xOffset="333"/>
   </outline>
   <lib>
     <dict>
