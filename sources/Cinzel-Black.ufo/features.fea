@@ -8,6 +8,52 @@ languagesystem latn KAZ;
 languagesystem latn TAT;
 languagesystem latn TRK;
 
+@LOWSALT = [
+    A.salt
+    Aacute.salt
+    Abreve.salt
+    Acircumflex.salt
+    Adieresis.salt
+    Agrave.salt
+    Amacron.salt
+    Aogonek.salt
+    Aring.salt
+    Atilde.salt
+    G.salt
+    Gbreve.salt
+    Gcommaaccent.salt
+    Gdotaccent.salt
+    K.salt
+    Kcommaaccent.salt
+    L.salt
+    Lacute.salt
+    Lcaron.salt
+    Lcommaaccent.salt
+    Ldot.salt
+    Lslash.salt
+    M.salt
+    N.salt
+    Nacute.salt
+    Ncaron.salt
+    Ncommaaccent.salt
+    Ntilde.salt
+    Q.salt
+    R.salt
+    Racute.salt
+    Rcaron.salt
+    Rcommaaccent.salt
+    Z.salt
+    Zacute.salt
+    Zcaron.salt
+    Zdotaccent.salt
+    H_K.salt
+    H_L.salt
+    H_R.salt
+    H_Racute.salt
+];
+@LOWWX = [W.salt Wacute.salt Wcircumflex.salt Wdieresis.salt Wgrave.salt X.salt];
+@ALTWX = [W.salt.alt1 Wacute.salt.alt1 Wcircumflex.salt.alt1 Wdieresis.salt.alt1 Wgrave.salt.alt1 X.salt.alt1];
+
 lookup locl_TRK {
     sub i by i.locl;
     sub I.ss02 by Idotaccent;
@@ -263,12 +309,7 @@ lookup ss02_lookup_TRK{
 } ss02_lookup_TRK;
 
 lookup calt_WX {
-    sub W.salt by W.salt.alt1;
-    sub Wacute.salt by Wacute.salt.alt1;
-    sub Wcircumflex.salt by Wcircumflex.salt.alt1;
-    sub Wdieresis.salt by Wdieresis.salt.alt1;
-    sub Wgrave.salt by Wgrave.salt.alt1;
-    sub X.salt by W.salt.alt1;
+    sub @LOWSALT '@LOWWX by @ALTWX;
 } calt_WX;
 
 
@@ -318,10 +359,6 @@ name "Lowercase as uppercase";
     lookup ss02_lookup_TRK;
 } ss02;
 
-feature calt {
-    lookup calt_WX;
-} calt;
-
 feature dlig {
 sub H E by H_E;
 sub H Eacute by H_Eacute;
@@ -360,3 +397,7 @@ sub H.salt L.salt by H_L.salt;
 sub H.salt R.salt by H_R.salt;
 sub H.salt Racute.salt by H_Racute.salt;
 } dlig;
+
+feature calt {
+    lookup calt_WX;
+} calt;
