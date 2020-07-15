@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcedilla.salt" format="2">
-  <advance width="618"/>
+  <advance width="710"/>
   <outline>
     <component base="T.salt"/>
-    <component base="cedillacomb" xOffset="3"/>
+    <component base="cedillacomb" xOffset="93"/>
   </outline>
   <lib>
     <dict>
