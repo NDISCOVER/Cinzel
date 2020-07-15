@@ -482,26 +482,38 @@
     <string>W_.glif</string>
     <key>W.salt</key>
     <string>W_.salt.glif</string>
+    <key>W.salt.alt1</key>
+    <string>W_.salt.alt1.glif</string>
     <key>Wacute</key>
     <string>W_acute.glif</string>
     <key>Wacute.salt</key>
     <string>W_acute.salt.glif</string>
+    <key>Wacute.salt.alt1</key>
+    <string>W_acute.salt.alt1.glif</string>
     <key>Wcircumflex</key>
     <string>W_circumflex.glif</string>
     <key>Wcircumflex.salt</key>
     <string>W_circumflex.salt.glif</string>
+    <key>Wcircumflex.salt.alt1</key>
+    <string>W_circumflex.salt.alt1.glif</string>
     <key>Wdieresis</key>
     <string>W_dieresis.glif</string>
     <key>Wdieresis.salt</key>
     <string>W_dieresis.salt.glif</string>
+    <key>Wdieresis.salt.alt1</key>
+    <string>W_dieresis.salt.alt1.glif</string>
     <key>Wgrave</key>
     <string>W_grave.glif</string>
     <key>Wgrave.salt</key>
     <string>W_grave.salt.glif</string>
+    <key>Wgrave.salt.alt1</key>
+    <string>W_grave.salt.alt1.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>X.salt</key>
     <string>X_.salt.glif</string>
+    <key>X.salt.alt1</key>
+    <string>X_.salt.alt1.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
     <key>Y.salt</key>

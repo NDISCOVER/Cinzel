@@ -262,6 +262,15 @@ lookup ss02_lookup_TRK{
     sub dotlessi by I;
 } ss02_lookup_TRK;
 
+lookup calt_WX {
+    sub W.salt by W.salt.alt1;
+    sub Wacute.salt by Wacute.salt.alt1;
+    sub Wcircumflex.salt by Wcircumflex.salt.alt1;
+    sub Wdieresis.salt by Wdieresis.salt.alt1;
+    sub Wgrave.salt by Wgrave.salt.alt1;
+    sub X.salt by W.salt.alt1;
+} calt_WX;
+
 
 feature locl {
     script latn;
@@ -308,6 +317,10 @@ name "Lowercase as uppercase";
     lookup ss02_lookup_0;
     lookup ss02_lookup_TRK;
 } ss02;
+
+feature calt {
+    lookup calt_WX;
+} calt;
 
 feature dlig {
 sub H E by H_E;
