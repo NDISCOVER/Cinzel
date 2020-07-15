@@ -37,7 +37,7 @@ do
 	python3 -m opentype_feature_freezer.cli -f ss01 $ttf $dttf.temp;
 	python3 -m opentype_feature_freezer.cli -S -U Decorative -f ss02 $dttf.temp $dttf;
 	rm $dttf.temp
-	pyftsubset --glyph-names --notdef-glyph --notdef-outline --recommended-glyphs --layout-features="ss01,ss02" --layout-features+="locl,dlig" --name-IDs="*" --unicodes="*" --output-file=$subsetdttf $dttf;
+	pyftsubset --glyph-names --notdef-glyph --notdef-outline --recommended-glyphs --layout-features-="ss01,ss02" --layout-features+="locl,dlig" --name-IDs="*" --unicodes="*" --output-file=$subsetdttf $dttf;
 	mv $subsetdttf $dttf;
 done
 
