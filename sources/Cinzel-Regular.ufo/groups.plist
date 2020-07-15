@@ -211,6 +211,9 @@
       <string>Eth.salt</string>
       <string>Dcaron.salt</string>
       <string>Dcroat.salt</string>
+    </array>
+    <key>public.kern1.O.salt</key>
+    <array>
       <string>O.salt</string>
       <string>Oacute.salt</string>
       <string>Ocircumflex.salt</string>
@@ -842,6 +845,9 @@
       <string>Gbreve.salt</string>
       <string>Gcommaaccent.salt</string>
       <string>Gdotaccent.salt</string>
+    </array>
+    <key>public.kern2.O.salt</key>
+    <array>
       <string>O.salt</string>
       <string>Oacute.salt</string>
       <string>Ocircumflex.salt</string>
