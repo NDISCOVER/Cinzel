@@ -306,6 +306,8 @@
       <key>asterisk</key>
       <integer>15</integer>
       <key>public.kern2.A</key>
+      <integer>-45</integer>
+      <key>public.kern2.A.salt</key>
       <integer>-70</integer>
       <key>public.kern2.AE.salt</key>
       <integer>-60</integer>
@@ -850,6 +852,8 @@
       <integer>-25</integer>
       <key>public.kern2.O</key>
       <integer>-45</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-55</integer>
       <key>public.kern2.S</key>
       <integer>-20</integer>
       <key>public.kern2.T</key>
@@ -859,6 +863,8 @@
       <key>public.kern2.V</key>
       <integer>-75</integer>
       <key>public.kern2.W</key>
+      <integer>-75</integer>
+      <key>public.kern2.W.salt</key>
       <integer>-75</integer>
       <key>public.kern2.X</key>
       <integer>-30</integer>
@@ -1217,6 +1223,8 @@
       <integer>-67</integer>
       <key>public.kern2.A.salt</key>
       <integer>-85</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-30</integer>
       <key>public.kern2.I.salt</key>
       <integer>60</integer>
       <key>public.kern2.M</key>
