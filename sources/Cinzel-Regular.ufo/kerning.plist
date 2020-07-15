@@ -2,6 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>Lcaron.salt</key>
+    <dict>
+      <key>public.kern2.T.salt</key>
+      <integer>80</integer>
+    </dict>
     <key>Omega</key>
     <dict>
       <key>public.kern2.H</key>
@@ -1019,6 +1024,10 @@
     <dict>
       <key>AE</key>
       <integer>-175</integer>
+      <key>Agrave</key>
+      <integer>-35</integer>
+      <key>Agrave.salt</key>
+      <integer>-35</integer>
       <key>asterisk</key>
       <integer>20</integer>
       <key>public.kern2.A</key>

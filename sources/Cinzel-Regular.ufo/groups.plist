@@ -207,6 +207,7 @@
       <string>Oslash</string>
       <string>Otilde</string>
       <string>Q</string>
+      <string>D.salt</string>
       <string>Eth.salt</string>
       <string>Dcaron.salt</string>
       <string>Dcroat.salt</string>
@@ -263,6 +264,7 @@
       <string>Tcaron</string>
       <string>Tcedilla</string>
       <string>Tcommaaccent</string>
+      <string>T.salt</string>
       <string>Tbar.salt</string>
       <string>Tcaron.salt</string>
       <string>Tcedilla.salt</string>
@@ -515,7 +517,6 @@
       <string>oslash</string>
       <string>otilde</string>
       <string>q</string>
-      <string>D.salt</string>
     </array>
     <key>public.kern1.one</key>
     <array>
@@ -582,7 +583,6 @@
       <string>tcaron</string>
       <string>tcedilla</string>
       <string>tcommaaccent</string>
-      <string>T.salt</string>
     </array>
     <key>public.kern1.thorn</key>
     <array>
@@ -672,6 +672,7 @@
       <string>Aring.salt</string>
       <string>Atilde.salt</string>
       <string>AE.salt</string>
+      <string>A.salt</string>
     </array>
     <key>public.kern2.B.salt</key>
     <array>
@@ -890,6 +891,8 @@
       <string>Umacron</string>
       <string>Uogonek</string>
       <string>Uring</string>
+      <string>U.salt</string>
+      <string>Uacute.salt</string>
       <string>Ucircumflex.salt</string>
       <string>Udieresis.salt</string>
       <string>Ugrave.salt</string>
@@ -901,6 +904,7 @@
     <key>public.kern2.V</key>
     <array>
       <string>V</string>
+      <string>V.salt</string>
     </array>
     <key>public.kern2.W</key>
     <array>
@@ -909,6 +913,7 @@
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
       <string>Wgrave</string>
+      <string>W.salt</string>
       <string>Wacute.salt</string>
       <string>Wcircumflex.salt</string>
       <string>Wdieresis.salt</string>
@@ -944,6 +949,7 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Z.salt</string>
       <string>Zacute.salt</string>
       <string>Zcaron.salt</string>
       <string>Zdotaccent.salt</string>
@@ -961,7 +967,6 @@
       <string>aring</string>
       <string>atilde</string>
       <string>ae</string>
-      <string>A.salt</string>
     </array>
     <key>public.kern2.colon</key>
     <array>
@@ -1169,13 +1174,10 @@
       <string>umacron</string>
       <string>uogonek</string>
       <string>uring</string>
-      <string>U.salt</string>
-      <string>Uacute.salt</string>
     </array>
     <key>public.kern2.v</key>
     <array>
       <string>v</string>
-      <string>V.salt</string>
     </array>
     <key>public.kern2.w</key>
     <array>
@@ -1184,7 +1186,6 @@
       <string>wcircumflex</string>
       <string>wdieresis</string>
       <string>wgrave</string>
-      <string>W.salt</string>
     </array>
     <key>public.kern2.x</key>
     <array>
@@ -1204,7 +1205,6 @@
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
-      <string>Z.salt</string>
     </array>
     <key>public.kern2.zero</key>
     <array>

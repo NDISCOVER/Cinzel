@@ -6,9 +6,9 @@
     <dict>
       <key>public.kern2.H</key>
       <integer>-20</integer>
-      <key>public.kern2.h</key>
-      <integer>-20</integer>
       <key>public.kern2.H.salt</key>
+      <integer>-20</integer>
+      <key>public.kern2.h</key>
       <integer>-20</integer>
     </dict>
     <key>Lcaron</key>
@@ -923,9 +923,9 @@
       <integer>-10</integer>
       <key>public.kern2.U</key>
       <integer>-20</integer>
-      <key>public.kern2.a</key>
-      <integer>-20</integer>
       <key>public.kern2.X.salt</key>
+      <integer>-20</integer>
+      <key>public.kern2.a</key>
       <integer>-20</integer>
       <key>public.kern2.h</key>
       <integer>-5</integer>
@@ -1124,6 +1124,24 @@
     </dict>
     <key>public.kern1.V.salt</key>
     <dict>
+      <key>Abreve</key>
+      <integer>0</integer>
+      <key>Acircumflex</key>
+      <integer>-80</integer>
+      <key>Adieresis</key>
+      <integer>0</integer>
+      <key>Adieresis.salt</key>
+      <integer>30</integer>
+      <key>Agrave</key>
+      <integer>80</integer>
+      <key>Agrave.salt</key>
+      <integer>110</integer>
+      <key>Amacron</key>
+      <integer>0</integer>
+      <key>Atilde</key>
+      <integer>0</integer>
+      <key>Atilde.salt</key>
+      <integer>60</integer>
       <key>asterisk</key>
       <integer>30</integer>
       <key>backslash</key>
@@ -1131,7 +1149,7 @@
       <key>public.kern2.A</key>
       <integer>-125</integer>
       <key>public.kern2.A.salt</key>
-      <integer>-120</integer>
+      <integer>0</integer>
       <key>public.kern2.I.salt</key>
       <integer>30</integer>
       <key>public.kern2.M</key>
@@ -1232,6 +1250,16 @@
     </dict>
     <key>public.kern1.W.salt</key>
     <dict>
+      <key>Abreve</key>
+      <integer>-30</integer>
+      <key>Adieresis</key>
+      <integer>-10</integer>
+      <key>Agrave</key>
+      <integer>70</integer>
+      <key>Amacron</key>
+      <integer>-30</integer>
+      <key>Atilde</key>
+      <integer>-10</integer>
       <key>asterisk</key>
       <integer>20</integer>
       <key>backslash</key>
@@ -1241,7 +1269,7 @@
       <key>public.kern2.A</key>
       <integer>-90</integer>
       <key>public.kern2.A.salt</key>
-      <integer>-93</integer>
+      <integer>-43</integer>
       <key>public.kern2.M</key>
       <integer>-30</integer>
       <key>public.kern2.M.salt</key>
@@ -1468,6 +1496,10 @@
     </dict>
     <key>public.kern1.Z.salt</key>
     <dict>
+      <key>Aogonek</key>
+      <integer>110</integer>
+      <key>Aogonek.salt</key>
+      <integer>120</integer>
       <key>asterisk</key>
       <integer>-25</integer>
       <key>public.kern2.A</key>
@@ -2048,7 +2080,7 @@
       <key>public.kern2.A</key>
       <integer>-150</integer>
       <key>public.kern2.A.salt</key>
-      <integer>-150</integer>
+      <integer>-50</integer>
       <key>public.kern2.M</key>
       <integer>-20</integer>
       <key>public.kern2.M.salt</key>
