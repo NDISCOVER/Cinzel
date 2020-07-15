@@ -266,6 +266,7 @@ lookup ss02_lookup_0 {
     sub zacute by Zacute;
     sub zcaron by Zcaron;
     sub zdotaccent by Zdotaccent;
+    sub germandbls by germandbls.ss02;
     sub fi by fi.ss02;
     sub fl by fl.ss02;
     sub mu by M;

@@ -257,6 +257,7 @@
       <string>Scaron</string>
       <string>Scedilla</string>
       <string>Scommaaccent</string>
+      <string>germandbls.ss02</string>
     </array>
     <key>public.kern1.S.salt</key>
     <array>
@@ -906,6 +907,7 @@
       <string>Scaron</string>
       <string>Scedilla</string>
       <string>Scommaaccent</string>
+      <string>germandbls.ss02</string>
     </array>
     <key>public.kern2.S.salt</key>
     <array>

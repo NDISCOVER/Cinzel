@@ -754,6 +754,8 @@
     <string>gdotaccent.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>germandbls.ss02</key>
+    <string>germandbls.ss02.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>gravecomb</key>
