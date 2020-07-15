@@ -141,6 +141,8 @@ lookup lookup_ss01 {
     sub braceright by braceright.salt;
     sub guillemotleft by guillemotleft.salt;
     sub guillemotright by guillemotright.salt;
+    sub guilsinglleft by guilsinglleft.salt;
+    sub guilsinglright by guilsinglright.salt;
     sub [zero one two three four five six seven eight nine] by [zero.salt one.salt two.salt three.salt four.salt five.salt six.salt seven.salt eight.salt nine.salt];
 } lookup_ss01;
 

@@ -758,18 +758,22 @@
     <string>greater.glif</string>
     <key>greaterequal</key>
     <string>greaterequal.glif</string>
-    <key>guillemotleft.salt</key>
-    <string>guillemotleft.salt.glif</string>
-    <key>guillemotright.salt</key>
-    <string>guillemotright.salt.glif</string>
     <key>guillemotleft</key>
     <string>guillemotleft.glif</string>
+    <key>guillemotleft.salt</key>
+    <string>guillemotleft.salt.glif</string>
     <key>guillemotright</key>
     <string>guillemotright.glif</string>
+    <key>guillemotright.salt</key>
+    <string>guillemotright.salt.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
+    <key>guilsinglleft.salt</key>
+    <string>guilsinglleft.salt.glif</string>
     <key>guilsinglright</key>
     <string>guilsinglright.glif</string>
+    <key>guilsinglright.salt</key>
+    <string>guilsinglright.salt.glif</string>
     <key>h</key>
     <string>h.glif</string>
     <key>hbar</key>
