@@ -1077,6 +1077,8 @@
       <integer>40</integer>
       <key>public.kern2.A</key>
       <integer>-120</integer>
+      <key>public.kern2.A.salt</key>
+      <integer>-120</integer>
       <key>public.kern2.I.salt</key>
       <integer>30</integer>
       <key>public.kern2.M</key>
@@ -1390,6 +1392,8 @@
       <key>backslash</key>
       <integer>45</integer>
       <key>public.kern2.A</key>
+      <integer>-110</integer>
+      <key>public.kern2.A.salt</key>
       <integer>-110</integer>
       <key>public.kern2.I.salt</key>
       <integer>20</integer>
