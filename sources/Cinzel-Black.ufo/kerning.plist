@@ -194,6 +194,8 @@
       <integer>-10</integer>
       <key>public.kern2.O</key>
       <integer>15</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>30</integer>
       <key>public.kern2.V</key>
       <integer>-15</integer>
       <key>public.kern2.W</key>
@@ -258,6 +260,8 @@
       <integer>-5</integer>
       <key>public.kern2.I.salt</key>
       <integer>20</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>15</integer>
       <key>public.kern2.T</key>
       <integer>0</integer>
     </dict>
@@ -274,6 +278,8 @@
     </dict>
     <key>public.kern1.E</key>
     <dict>
+      <key>public.kern2.O.salt</key>
+      <integer>20</integer>
       <key>public.kern2.o</key>
       <integer>10</integer>
     </dict>
@@ -366,6 +372,8 @@
       <integer>-20</integer>
       <key>public.kern2.H</key>
       <integer>-25</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>25</integer>
       <key>public.kern2.T</key>
       <integer>-33</integer>
       <key>public.kern2.U</key>
@@ -484,6 +492,8 @@
     <dict>
       <key>public.kern2.O</key>
       <integer>-40</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-34</integer>
       <key>public.kern2.hyphen</key>
       <integer>-40</integer>
       <key>public.kern2.o</key>
@@ -524,6 +534,8 @@
       <integer>-30</integer>
       <key>public.kern2.I.salt</key>
       <integer>-30</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>15</integer>
       <key>public.kern2.T</key>
       <integer>-80</integer>
       <key>public.kern2.T.salt</key>
@@ -578,6 +590,8 @@
       <integer>-65</integer>
       <key>public.kern2.O</key>
       <integer>-5</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>5</integer>
       <key>public.kern2.T</key>
       <integer>-10</integer>
       <key>public.kern2.U</key>
@@ -692,6 +706,8 @@
       <integer>-10</integer>
       <key>public.kern2.O</key>
       <integer>18</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>35</integer>
       <key>public.kern2.T</key>
       <integer>-20</integer>
       <key>public.kern2.U</key>
@@ -792,6 +808,8 @@
       <integer>-5</integer>
       <key>public.kern2.O</key>
       <integer>15</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>40</integer>
       <key>public.kern2.S</key>
       <integer>16</integer>
       <key>public.kern2.T</key>
@@ -827,6 +845,8 @@
       <integer>10</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-10</integer>
       <key>public.kern2.S</key>
       <integer>0</integer>
       <key>public.kern2.T</key>
@@ -921,6 +941,8 @@
       <integer>-50</integer>
       <key>public.kern2.H</key>
       <integer>-10</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>20</integer>
       <key>public.kern2.U</key>
       <integer>-20</integer>
       <key>public.kern2.X.salt</key>
@@ -971,6 +993,8 @@
       <integer>-10</integer>
       <key>public.kern2.O</key>
       <integer>0</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>10</integer>
       <key>public.kern2.T</key>
       <integer>20</integer>
       <key>public.kern2.T.salt</key>
@@ -1027,6 +1051,8 @@
       <integer>-15</integer>
       <key>public.kern2.M</key>
       <integer>-15</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>5</integer>
       <key>public.kern2.a</key>
       <integer>-60</integer>
       <key>public.kern2.colon</key>
@@ -1313,6 +1339,8 @@
       <integer>20</integer>
       <key>public.kern2.O</key>
       <integer>-38</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-35</integer>
       <key>public.kern2.T</key>
       <integer>13</integer>
       <key>public.kern2.V</key>
@@ -1401,6 +1429,8 @@
       <integer>-25</integer>
       <key>public.kern2.O</key>
       <integer>-40</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-20</integer>
       <key>public.kern2.T</key>
       <integer>50</integer>
       <key>public.kern2.V</key>
@@ -1786,6 +1816,8 @@
     </dict>
     <key>public.kern1.hyphen</key>
     <dict>
+      <key>public.kern2.O.salt</key>
+      <integer>25</integer>
       <key>public.kern2.T</key>
       <integer>-90</integer>
       <key>public.kern2.T.salt</key>
