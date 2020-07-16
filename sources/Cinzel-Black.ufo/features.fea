@@ -132,8 +132,8 @@ lookup lookup_ss01 {
     sub bullet by bullet.salt;
     sub periodcentered by periodcentered.salt;
     sub braceleft by braceleft.salt;
-	sub braceright by braceright.salt;
-    sub [zero one two three four five six seven eight nine ten] by [zero.salt one.salt two.salt three.salt four.salt five.salt six.salt seven.salt eight.salt nine.salt ten.salt];
+    sub braceright by braceright.salt;
+    sub [zero one two three four five six seven eight nine] by [zero.salt one.salt two.salt three.salt four.salt five.salt six.salt seven.salt eight.salt nine.salt];
 } lookup_ss01;
 
 lookup ss02_lookup_0 {
@@ -279,7 +279,7 @@ feature locl {
 
 feature ss01 {
 featureNames {
-name "Decorative uppercase";
+name "Decorative";
 };
 lookup lookup_ss01;
 } ss01;
