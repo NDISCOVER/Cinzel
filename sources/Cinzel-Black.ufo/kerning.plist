@@ -6,8 +6,6 @@
     <dict>
       <key>public.kern2.H</key>
       <integer>-20</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>-20</integer>
       <key>public.kern2.h</key>
       <integer>-20</integer>
     </dict>
@@ -24,8 +22,6 @@
     <dict>
       <key>public.kern2.T.salt</key>
       <integer>120</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-25</integer>
     </dict>
     <key>Tcedilla</key>
     <dict>
@@ -48,8 +44,6 @@
       <key>public.kern2.M.salt</key>
       <integer>35</integer>
       <key>public.kern2.V</key>
-      <integer>-35</integer>
-      <key>public.kern2.V.salt</key>
       <integer>-35</integer>
       <key>public.kern2.X</key>
       <integer>30</integer>
@@ -80,8 +74,6 @@
     </dict>
     <key>dollar</key>
     <dict>
-      <key>public.kern2.eight.salt</key>
-      <integer>15</integer>
       <key>public.kern2.four.salt</key>
       <integer>25</integer>
       <key>public.kern2.nine.salt</key>
@@ -171,12 +163,8 @@
       <integer>-100</integer>
       <key>public.kern2.U</key>
       <integer>-35</integer>
-      <key>public.kern2.U.salt</key>
-      <integer>-40</integer>
       <key>public.kern2.V</key>
       <integer>-120</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-125</integer>
       <key>public.kern2.W</key>
       <integer>-90</integer>
       <key>public.kern2.W.salt</key>
@@ -253,8 +241,6 @@
       <integer>-30</integer>
       <key>public.kern2.V</key>
       <integer>-40</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-15</integer>
       <key>public.kern2.W</key>
       <integer>-20</integer>
       <key>public.kern2.W.salt</key>
@@ -291,8 +277,6 @@
     <dict>
       <key>public.kern2.H</key>
       <integer>-10</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>-5</integer>
       <key>public.kern2.O.salt</key>
       <integer>20</integer>
       <key>public.kern2.X</key>
@@ -383,8 +367,6 @@
       <integer>40</integer>
       <key>public.kern2.O.salt</key>
       <integer>40</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>30</integer>
       <key>public.kern2.W.salt</key>
       <integer>30</integer>
       <key>public.kern2.period</key>
@@ -435,16 +417,10 @@
       <integer>-20</integer>
       <key>public.kern2.B.salt</key>
       <integer>22</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>-5</integer>
       <key>public.kern2.T.salt</key>
       <integer>-33</integer>
-      <key>public.kern2.U.salt</key>
-      <integer>-25</integer>
       <key>public.kern2.V</key>
       <integer>-20</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-10</integer>
       <key>public.kern2.X.salt</key>
       <integer>-26</integer>
       <key>public.kern2.Y.salt</key>
@@ -463,8 +439,6 @@
       <key>public.kern2.AE.salt</key>
       <integer>100</integer>
       <key>public.kern2.H</key>
-      <integer>0</integer>
-      <key>public.kern2.H.salt</key>
       <integer>0</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
@@ -489,8 +463,6 @@
     <dict>
       <key>public.kern2.A.salt</key>
       <integer>-10</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>0</integer>
       <key>public.kern2.O</key>
       <integer>-22</integer>
       <key>public.kern2.O.salt</key>
@@ -613,8 +585,6 @@
       <integer>-30</integer>
       <key>public.kern2.O</key>
       <integer>-15</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-100</integer>
       <key>public.kern2.W.salt</key>
       <integer>-70</integer>
       <key>public.kern2.Y.salt</key>
@@ -673,12 +643,8 @@
       <integer>-10</integer>
       <key>public.kern2.U</key>
       <integer>-25</integer>
-      <key>public.kern2.U.salt</key>
-      <integer>-15</integer>
       <key>public.kern2.V</key>
       <integer>-30</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-25</integer>
       <key>public.kern2.W.salt</key>
       <integer>-20</integer>
       <key>public.kern2.Y.salt</key>
@@ -725,8 +691,6 @@
     </dict>
     <key>public.kern1.N.salt</key>
     <dict>
-      <key>public.kern2.H.salt</key>
-      <integer>-20</integer>
       <key>public.kern2.O.salt</key>
       <integer>0</integer>
       <key>public.kern2.colon</key>
@@ -743,8 +707,6 @@
       <key>public.kern2.AE.salt</key>
       <integer>0</integer>
       <key>public.kern2.H</key>
-      <integer>-20</integer>
-      <key>public.kern2.H.salt</key>
       <integer>-20</integer>
       <key>public.kern2.J</key>
       <integer>-25</integer>
@@ -807,8 +769,6 @@
       <integer>-30</integer>
       <key>public.kern2.B.salt</key>
       <integer>50</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>0</integer>
       <key>public.kern2.J.salt</key>
       <integer>-10</integer>
       <key>public.kern2.M.salt</key>
@@ -817,12 +777,8 @@
       <integer>30</integer>
       <key>public.kern2.O.salt</key>
       <integer>50</integer>
-      <key>public.kern2.U.salt</key>
-      <integer>-15</integer>
       <key>public.kern2.V</key>
       <integer>-12</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-30</integer>
       <key>public.kern2.W.salt</key>
       <integer>-25</integer>
       <key>public.kern2.X</key>
@@ -833,8 +789,6 @@
       <integer>-23</integer>
       <key>public.kern2.Y.salt</key>
       <integer>-42</integer>
-      <key>public.kern2.Z.salt</key>
-      <integer>-15</integer>
       <key>public.kern2.hyphen</key>
       <integer>25</integer>
       <key>public.kern2.period</key>
@@ -966,10 +920,6 @@
       <integer>0</integer>
       <key>public.kern2.T.salt</key>
       <integer>-25</integer>
-      <key>public.kern2.U.salt</key>
-      <integer>-36</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-45</integer>
       <key>public.kern2.W.salt</key>
       <integer>-35</integer>
       <key>public.kern2.X.salt</key>
@@ -1028,12 +978,8 @@
       <integer>-50</integer>
       <key>public.kern2.AE.salt</key>
       <integer>150</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>-10</integer>
       <key>public.kern2.M.salt</key>
       <integer>15</integer>
-      <key>public.kern2.U.salt</key>
-      <integer>-20</integer>
       <key>public.kern2.quotesingle</key>
       <integer>-16</integer>
     </dict>
@@ -1150,8 +1096,6 @@
       <integer>-30</integer>
       <key>public.kern2.A.salt</key>
       <integer>-45</integer>
-      <key>public.kern2.H.salt</key>
-      <integer>-25</integer>
       <key>public.kern2.M.salt</key>
       <integer>-15</integer>
       <key>public.kern2.N</key>
@@ -1266,14 +1210,10 @@
       <integer>-20</integer>
       <key>public.kern2.T.salt</key>
       <integer>50</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>40</integer>
       <key>public.kern2.W.salt</key>
       <integer>40</integer>
       <key>public.kern2.X.salt</key>
       <integer>40</integer>
-      <key>public.kern2.Z.salt</key>
-      <integer>20</integer>
       <key>public.kern2.colon</key>
       <integer>-15</integer>
       <key>public.kern2.guillemotleft</key>
@@ -1388,15 +1328,11 @@
       <integer>-20</integer>
       <key>public.kern2.T.salt</key>
       <integer>50</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>40</integer>
       <key>public.kern2.W.salt</key>
       <integer>10</integer>
       <key>public.kern2.X.salt</key>
       <integer>15</integer>
       <key>public.kern2.Y.salt</key>
-      <integer>20</integer>
-      <key>public.kern2.Z.salt</key>
       <integer>20</integer>
       <key>public.kern2.colon</key>
       <integer>-20</integer>
@@ -1468,14 +1404,10 @@
       <integer>-45</integer>
       <key>public.kern2.T.salt</key>
       <integer>13</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>10</integer>
       <key>public.kern2.W.salt</key>
       <integer>20</integer>
       <key>public.kern2.Y.salt</key>
       <integer>0</integer>
-      <key>public.kern2.Z.salt</key>
-      <integer>20</integer>
       <key>public.kern2.colon</key>
       <integer>20</integer>
       <key>public.kern2.guillemotleft</key>
@@ -1572,8 +1504,6 @@
       <integer>-50</integer>
       <key>public.kern2.T.salt</key>
       <integer>50</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>40</integer>
       <key>public.kern2.W.salt</key>
       <integer>20</integer>
       <key>public.kern2.X.salt</key>
@@ -1630,8 +1560,6 @@
       <integer>-25</integer>
       <key>public.kern2.S</key>
       <integer>-35</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>20</integer>
       <key>public.kern2.W.salt</key>
       <integer>20</integer>
       <key>public.kern2.X.salt</key>
@@ -1947,8 +1875,6 @@
       <integer>-90</integer>
       <key>public.kern2.V</key>
       <integer>-50</integer>
-      <key>public.kern2.V.salt</key>
-      <integer>-50</integer>
       <key>public.kern2.W</key>
       <integer>-25</integer>
       <key>public.kern2.W.salt</key>
@@ -1963,11 +1889,7 @@
       <integer>-80</integer>
       <key>public.kern2.Z</key>
       <integer>-30</integer>
-      <key>public.kern2.Z.salt</key>
-      <integer>-30</integer>
       <key>public.kern2.eight</key>
-      <integer>20</integer>
-      <key>public.kern2.eight.salt</key>
       <integer>20</integer>
       <key>public.kern2.four</key>
       <integer>25</integer>
@@ -1984,8 +1906,6 @@
       <key>public.kern2.seven.salt</key>
       <integer>-55</integer>
       <key>public.kern2.six</key>
-      <integer>15</integer>
-      <key>public.kern2.six.salt</key>
       <integer>15</integer>
       <key>public.kern2.t</key>
       <integer>-70</integer>
@@ -2248,8 +2168,6 @@
       <integer>-40</integer>
       <key>public.kern2.eight</key>
       <integer>15</integer>
-      <key>public.kern2.eight.salt</key>
-      <integer>15</integer>
       <key>public.kern2.four</key>
       <integer>-15</integer>
       <key>public.kern2.four.salt</key>
@@ -2265,8 +2183,6 @@
       <key>public.kern2.seven.salt</key>
       <integer>-50</integer>
       <key>public.kern2.six</key>
-      <integer>-20</integer>
-      <key>public.kern2.six.salt</key>
       <integer>-20</integer>
       <key>public.kern2.zero</key>
       <integer>-25</integer>
@@ -2307,8 +2223,6 @@
       <key>public.kern2.S.salt</key>
       <integer>-5</integer>
       <key>public.kern2.V</key>
-      <integer>25</integer>
-      <key>public.kern2.V.salt</key>
       <integer>25</integer>
       <key>public.kern2.Y</key>
       <integer>25</integer>
@@ -2450,8 +2364,6 @@
     <dict>
       <key>dollar</key>
       <integer>-20</integer>
-      <key>public.kern2.eight.salt</key>
-      <integer>-35</integer>
       <key>public.kern2.five.salt</key>
       <integer>-35</integer>
       <key>public.kern2.four.salt</key>
@@ -2465,8 +2377,6 @@
       <key>public.kern2.plus</key>
       <integer>-40</integer>
       <key>public.kern2.six</key>
-      <integer>-35</integer>
-      <key>public.kern2.six.salt</key>
       <integer>-35</integer>
       <key>public.kern2.zero.salt</key>
       <integer>-35</integer>
@@ -2810,8 +2720,6 @@
       <integer>-25</integer>
       <key>public.kern2.seven.salt</key>
       <integer>15</integer>
-      <key>public.kern2.six.salt</key>
-      <integer>15</integer>
       <key>public.kern2.three.salt</key>
       <integer>-25</integer>
       <key>public.kern2.two.salt</key>
@@ -2837,8 +2745,6 @@
       <key>public.kern2.T.salt</key>
       <integer>20</integer>
       <key>public.kern2.V</key>
-      <integer>40</integer>
-      <key>public.kern2.V.salt</key>
       <integer>40</integer>
       <key>public.kern2.W</key>
       <integer>50</integer>
