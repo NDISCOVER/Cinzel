@@ -24,6 +24,10 @@
       <integer>20</integer>
       <key>public.kern2.M.salt</key>
       <integer>20</integer>
+      <key>public.kern2.Y</key>
+      <integer>-50</integer>
+      <key>public.kern2.Y.salt</key>
+      <integer>-50</integer>
       <key>public.kern2.a</key>
       <integer>20</integer>
       <key>public.kern2.m</key>
@@ -292,7 +296,7 @@
       <key>public.kern2.W</key>
       <integer>-45</integer>
       <key>public.kern2.W.salt</key>
-      <integer>-55</integer>
+      <integer>-45</integer>
       <key>public.kern2.Y</key>
       <integer>-50</integer>
       <key>public.kern2.Y.salt</key>
@@ -349,6 +353,8 @@
       <integer>-45</integer>
       <key>public.kern2.A.salt</key>
       <integer>-70</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-115</integer>
       <key>public.kern2.I.salt</key>
       <integer>30</integer>
       <key>public.kern2.M.salt</key>
@@ -474,6 +480,8 @@
       <integer>30</integer>
       <key>public.kern2.O</key>
       <integer>-30</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-40</integer>
       <key>public.kern2.hyphen</key>
       <integer>-60</integer>
       <key>public.kern2.o</key>
@@ -804,6 +812,8 @@
       <integer>-70</integer>
       <key>public.kern2.A.salt</key>
       <integer>-70</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-125</integer>
       <key>public.kern2.D.salt</key>
       <integer>70</integer>
       <key>public.kern2.H</key>
@@ -1005,11 +1015,17 @@
       <integer>20</integer>
       <key>public.kern2.A</key>
       <integer>-70</integer>
+      <key>public.kern2.A.salt</key>
+      <integer>-70</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-125</integer>
       <key>public.kern2.I.salt</key>
       <integer>60</integer>
       <key>public.kern2.M</key>
       <integer>-10</integer>
       <key>public.kern2.O</key>
+      <integer>-25</integer>
+      <key>public.kern2.O.salt</key>
       <integer>-25</integer>
       <key>public.kern2.S.salt</key>
       <integer>-20</integer>
@@ -1052,6 +1068,8 @@
     <key>public.kern1.U</key>
     <dict>
       <key>public.kern2.A</key>
+      <integer>-35</integer>
+      <key>public.kern2.A.salt</key>
       <integer>-35</integer>
       <key>public.kern2.H</key>
       <integer>-13</integer>
@@ -1199,6 +1217,8 @@
       <integer>20</integer>
       <key>public.kern2.A</key>
       <integer>-85</integer>
+      <key>public.kern2.A.salt</key>
+      <integer>-85</integer>
       <key>public.kern2.AE.salt</key>
       <integer>-70</integer>
       <key>public.kern2.M</key>
@@ -1269,6 +1289,8 @@
       <integer>10</integer>
       <key>public.kern2.O</key>
       <integer>-30</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-40</integer>
       <key>public.kern2.guillemotleft</key>
       <integer>-20</integer>
       <key>public.kern2.guillemotright</key>
@@ -1327,6 +1349,8 @@
       <integer>-20</integer>
       <key>public.kern2.O</key>
       <integer>-35</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-30</integer>
       <key>public.kern2.S.salt</key>
       <integer>-40</integer>
       <key>public.kern2.a</key>
@@ -1349,6 +1373,8 @@
       <integer>40</integer>
       <key>public.kern2.s</key>
       <integer>-30</integer>
+      <key>slash</key>
+      <integer>-50</integer>
     </dict>
     <key>public.kern1.Y.salt</key>
     <dict>
@@ -1390,6 +1416,8 @@
       <integer>-95</integer>
       <key>public.kern2.quotesingle</key>
       <integer>40</integer>
+      <key>slash</key>
+      <integer>-50</integer>
       <key>trademark</key>
       <integer>25</integer>
     </dict>
@@ -1976,6 +2004,8 @@
       <integer>-50</integer>
       <key>public.kern2.M.salt</key>
       <integer>-50</integer>
+      <key>public.kern2.O</key>
+      <integer>-10</integer>
       <key>public.kern2.T</key>
       <integer>50</integer>
       <key>public.kern2.T.salt</key>
@@ -2308,6 +2338,8 @@
       <key>public.kern2.A</key>
       <integer>-50</integer>
       <key>public.kern2.A.salt</key>
+      <integer>-50</integer>
+      <key>public.kern2.AE.salt</key>
       <integer>-50</integer>
       <key>public.kern2.V</key>
       <integer>40</integer>
