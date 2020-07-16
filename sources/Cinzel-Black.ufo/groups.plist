@@ -457,11 +457,13 @@
     <array>
       <string>guillemotleft</string>
       <string>guilsinglleft</string>
+      <string>guillemotleft.salt</string>
     </array>
     <key>public.kern1.guillemotright</key>
     <array>
       <string>guillemotright</string>
       <string>guilsinglright</string>
+      <string>guillemotright.salt</string>
     </array>
     <key>public.kern1.h</key>
     <array>
@@ -1060,11 +1062,13 @@
     <array>
       <string>guillemotleft</string>
       <string>guilsinglleft</string>
+      <string>guillemotleft.salt</string>
     </array>
     <key>public.kern2.guillemotright</key>
     <array>
       <string>guillemotright</string>
       <string>guilsinglright</string>
+      <string>guillemotright.salt</string>
     </array>
     <key>public.kern2.h</key>
     <array>
