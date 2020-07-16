@@ -1003,6 +1003,8 @@
       <integer>20</integer>
       <key>public.kern2.A</key>
       <integer>-70</integer>
+      <key>public.kern2.I.salt</key>
+      <integer>60</integer>
       <key>public.kern2.M</key>
       <integer>-10</integer>
       <key>public.kern2.O</key>
@@ -2064,6 +2066,8 @@
       <key>public.kern2.seven</key>
       <integer>-25</integer>
       <key>public.kern2.three</key>
+      <integer>-25</integer>
+      <key>public.kern2.three.salt</key>
       <integer>-25</integer>
       <key>public.kern2.two</key>
       <integer>-35</integer>

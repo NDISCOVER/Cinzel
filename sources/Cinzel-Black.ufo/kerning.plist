@@ -338,6 +338,8 @@
       <integer>-50</integer>
       <key>public.kern2.A.salt</key>
       <integer>-70</integer>
+      <key>public.kern2.I.salt</key>
+      <integer>30</integer>
       <key>public.kern2.M</key>
       <integer>-15</integer>
       <key>public.kern2.O</key>
@@ -2459,6 +2461,8 @@
       <integer>-15</integer>
       <key>public.kern2.three</key>
       <integer>-60</integer>
+      <key>public.kern2.three.salt</key>
+      <integer>-25</integer>
       <key>public.kern2.two</key>
       <integer>-35</integer>
       <key>question</key>
