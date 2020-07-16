@@ -1042,6 +1042,8 @@
       <integer>-5</integer>
       <key>public.kern2.O</key>
       <integer>-20</integer>
+      <key>public.kern2.O.salt</key>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.U</key>
     <dict>
@@ -1514,7 +1516,11 @@
       <integer>-20</integer>
       <key>public.kern2.three</key>
       <integer>-20</integer>
+      <key>public.kern2.three.salt</key>
+      <integer>-20</integer>
       <key>public.kern2.two</key>
+      <integer>-20</integer>
+      <key>public.kern2.two.salt</key>
       <integer>-20</integer>
     </dict>
     <key>public.kern1.eight.salt</key>
@@ -1631,6 +1637,8 @@
       <integer>-60</integer>
       <key>public.kern2.A.salt</key>
       <integer>-60</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>-60</integer>
       <key>public.kern2.T</key>
       <integer>-60</integer>
       <key>public.kern2.T.salt</key>
@@ -1693,6 +1701,8 @@
       <integer>-30</integer>
       <key>public.kern2.W.salt</key>
       <integer>-30</integer>
+      <key>public.kern2.X</key>
+      <integer>-60</integer>
       <key>public.kern2.Y</key>
       <integer>-60</integer>
       <key>public.kern2.Y.salt</key>
@@ -1924,9 +1934,15 @@
     <dict>
       <key>public.kern2.four</key>
       <integer>-50</integer>
+      <key>public.kern2.four.salt</key>
+      <integer>-50</integer>
       <key>public.kern2.nine</key>
       <integer>-50</integer>
+      <key>public.kern2.nine.salt</key>
+      <integer>-50</integer>
       <key>public.kern2.seven</key>
+      <integer>-45</integer>
+      <key>public.kern2.seven.salt</key>
       <integer>-45</integer>
       <key>public.kern2.zero</key>
       <integer>-35</integer>
@@ -1935,9 +1951,13 @@
     <dict>
       <key>public.kern2.seven</key>
       <integer>-55</integer>
+      <key>public.kern2.seven.salt</key>
+      <integer>-55</integer>
       <key>public.kern2.three</key>
       <integer>-35</integer>
       <key>public.kern2.two</key>
+      <integer>-55</integer>
+      <key>public.kern2.two.salt</key>
       <integer>-55</integer>
     </dict>
     <key>public.kern1.quotesingle</key>
@@ -2050,6 +2070,8 @@
       <integer>-110</integer>
       <key>public.kern2.plus</key>
       <integer>-30</integer>
+      <key>public.kern2.six</key>
+      <integer>-25</integer>
       <key>public.kern2.six.salt</key>
       <integer>-25</integer>
       <key>public.kern2.zero.salt</key>
@@ -2063,13 +2085,19 @@
       <integer>15</integer>
       <key>public.kern2.nine</key>
       <integer>-30</integer>
+      <key>public.kern2.nine.salt</key>
+      <integer>-30</integer>
       <key>public.kern2.seven</key>
+      <integer>-25</integer>
+      <key>public.kern2.seven.salt</key>
       <integer>-25</integer>
       <key>public.kern2.three</key>
       <integer>-25</integer>
       <key>public.kern2.three.salt</key>
       <integer>-25</integer>
       <key>public.kern2.two</key>
+      <integer>-35</integer>
+      <key>public.kern2.two.salt</key>
       <integer>-35</integer>
     </dict>
     <key>public.kern1.six.salt</key>

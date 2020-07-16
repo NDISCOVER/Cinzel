@@ -880,7 +880,6 @@
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
-      <string>C.salt</string>
       <string>Cacute.salt</string>
       <string>Ccaron.salt</string>
       <string>Ccedilla.salt</string>
@@ -903,6 +902,7 @@
       <string>Otilde.salt</string>
       <string>OE.salt</string>
       <string>Q.salt</string>
+      <string>C.salt</string>
     </array>
     <key>public.kern2.S</key>
     <array>
