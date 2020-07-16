@@ -285,6 +285,7 @@ lookup ss02_lookup_TRK{
 
 lookup calt_WX {
     sub @LOWSALT @LOWWX' by @ALTWX;
+    sub U.salt N.salt' by N;
 } calt_WX;
 
 
