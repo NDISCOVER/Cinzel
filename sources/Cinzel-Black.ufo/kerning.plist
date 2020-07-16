@@ -187,6 +187,10 @@
       <integer>20</integer>
       <key>public.kern2.quotesingle</key>
       <integer>-120</integer>
+      <key>public.kern2.v</key>
+      <integer>-105</integer>
+      <key>public.kern2.w</key>
+      <integer>-70</integer>
       <key>question</key>
       <integer>-50</integer>
       <key>registered</key>
@@ -315,6 +319,12 @@
       <integer>-80</integer>
       <key>public.kern2.Y.salt</key>
       <integer>-60</integer>
+      <key>public.kern2.v</key>
+      <integer>-60</integer>
+      <key>public.kern2.w</key>
+      <integer>-85</integer>
+      <key>public.kern2.y</key>
+      <integer>-70</integer>
       <key>question</key>
       <integer>-30</integer>
     </dict>
@@ -373,6 +383,8 @@
       <integer>40</integer>
       <key>public.kern2.W.salt</key>
       <integer>30</integer>
+      <key>public.kern2.a</key>
+      <integer>-50</integer>
       <key>public.kern2.period</key>
       <integer>-70</integer>
       <key>public.kern2.quotesingle</key>
@@ -535,6 +547,12 @@
       <integer>-40</integer>
       <key>public.kern2.hyphen</key>
       <integer>-40</integer>
+      <key>public.kern2.v</key>
+      <integer>-70</integer>
+      <key>public.kern2.w</key>
+      <integer>-60</integer>
+      <key>public.kern2.y</key>
+      <integer>-30</integer>
       <key>slash</key>
       <integer>30</integer>
     </dict>
@@ -1116,6 +1134,8 @@
       <integer>-10</integer>
       <key>public.kern2.O.salt</key>
       <integer>20</integer>
+      <key>public.kern2.a</key>
+      <integer>-30</integer>
       <key>public.kern2.colon</key>
       <integer>-10</integer>
       <key>public.kern2.period</key>
@@ -1228,6 +1248,8 @@
       <integer>40</integer>
       <key>public.kern2.X.salt</key>
       <integer>40</integer>
+      <key>public.kern2.a</key>
+      <integer>-125</integer>
       <key>public.kern2.colon</key>
       <integer>-15</integer>
       <key>public.kern2.guillemotleft</key>
@@ -1236,6 +1258,8 @@
       <integer>-15</integer>
       <key>public.kern2.hyphen</key>
       <integer>-50</integer>
+      <key>public.kern2.o</key>
+      <integer>-35</integer>
       <key>public.kern2.period</key>
       <integer>-120</integer>
       <key>public.kern2.quotesingle</key>
@@ -1350,12 +1374,16 @@
       <integer>15</integer>
       <key>public.kern2.Y.salt</key>
       <integer>20</integer>
+      <key>public.kern2.a</key>
+      <integer>-90</integer>
       <key>public.kern2.colon</key>
       <integer>-20</integer>
       <key>public.kern2.guillemotleft</key>
       <integer>-15</integer>
       <key>public.kern2.hyphen</key>
       <integer>-15</integer>
+      <key>public.kern2.o</key>
+      <integer>-25</integer>
       <key>public.kern2.period</key>
       <integer>-80</integer>
       <key>question</key>
@@ -1432,6 +1460,8 @@
       <integer>-25</integer>
       <key>public.kern2.hyphen</key>
       <integer>-55</integer>
+      <key>public.kern2.o</key>
+      <integer>-45</integer>
       <key>public.kern2.period</key>
       <integer>20</integer>
       <key>question</key>
@@ -1524,6 +1554,8 @@
       <integer>20</integer>
       <key>public.kern2.X.salt</key>
       <integer>10</integer>
+      <key>public.kern2.a</key>
+      <integer>-110</integer>
       <key>public.kern2.colon</key>
       <integer>-30</integer>
       <key>public.kern2.guillemotleft</key>
@@ -1532,6 +1564,8 @@
       <integer>-35</integer>
       <key>public.kern2.hyphen</key>
       <integer>-80</integer>
+      <key>public.kern2.o</key>
+      <integer>-75</integer>
       <key>public.kern2.period</key>
       <integer>-115</integer>
       <key>public.kern2.quotesingle</key>
@@ -1580,6 +1614,8 @@
       <integer>20</integer>
       <key>public.kern2.X.salt</key>
       <integer>20</integer>
+      <key>public.kern2.a</key>
+      <integer>-120</integer>
       <key>public.kern2.hyphen</key>
       <integer>-80</integer>
     </dict>
@@ -1591,18 +1627,26 @@
       <integer>-70</integer>
       <key>exclam</key>
       <integer>20</integer>
+      <key>public.kern2.I.salt</key>
+      <integer>-50</integer>
       <key>public.kern2.O</key>
       <integer>-40</integer>
       <key>public.kern2.T</key>
       <integer>-130</integer>
+      <key>public.kern2.T.salt</key>
+      <integer>-110</integer>
       <key>public.kern2.U</key>
       <integer>-55</integer>
       <key>public.kern2.V</key>
       <integer>-160</integer>
       <key>public.kern2.W</key>
       <integer>-115</integer>
+      <key>public.kern2.W.salt</key>
+      <integer>-100</integer>
       <key>public.kern2.Y</key>
       <integer>-150</integer>
+      <key>public.kern2.Y.salt</key>
+      <integer>-110</integer>
       <key>public.kern2.colon</key>
       <integer>20</integer>
       <key>public.kern2.h</key>
