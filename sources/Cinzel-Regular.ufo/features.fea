@@ -4,12 +4,11 @@
 
 @ALTWX = [ W.salt.alt1 Wacute.salt.alt1 Wcircumflex.salt.alt1 Wdieresis.salt.alt1 Wgrave.salt.alt1 X.salt.alt1 ];
 
-@HIGHSALT = [U.salt Uacute.salt Ucircumflex.salt Udieresis.salt Ugrave.salt Uhungarumlaut.salt Umacron.salt Uogonek.salt Uring.salt V.salt W.salt Wacute.salt Wcircumflex.salt Wdieresis.salt Wgrave.salt X.salt @ALTWX];
+@HIGHSALT = [ U.salt Uacute.salt Ucircumflex.salt Udieresis.salt Ugrave.salt Uhungarumlaut.salt Umacron.salt Uogonek.salt Uring.salt V.salt W.salt Wacute.salt Wcircumflex.salt Wdieresis.salt Wgrave.salt X.salt @ALTWX ];
 
-@HIGHMN = [M.salt N.salt Nacute.salt Ncaron.salt Ncommaaccent.salt Eng.salt Ntilde];
+@HIGHMN = [ M.salt N.salt Nacute.salt Ncaron.salt Ncommaaccent.salt Eng.salt Ntilde ];
 
-@ALTMN = [M N Nacute Ncaron Ncommaaccent Eng Ntilde];
-
+@ALTMN = [ M N Nacute Ncaron Ncommaaccent Eng Ntilde ];
 
 @FIGURES = [ zero one two three four five six seven eight nine ];
 
