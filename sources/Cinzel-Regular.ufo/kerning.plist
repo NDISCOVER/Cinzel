@@ -18,10 +18,14 @@
       <integer>20</integer>
       <key>public.kern2.A.salt</key>
       <integer>20</integer>
+      <key>public.kern2.AE.salt</key>
+      <integer>20</integer>
       <key>public.kern2.M</key>
       <integer>20</integer>
       <key>public.kern2.M.salt</key>
       <integer>20</integer>
+      <key>public.kern2.T.salt</key>
+      <integer>-30</integer>
       <key>public.kern2.Y</key>
       <integer>-50</integer>
       <key>public.kern2.Y.salt</key>
@@ -638,6 +642,8 @@
       <integer>-20</integer>
       <key>public.kern2.A</key>
       <integer>-35</integer>
+      <key>public.kern2.A.salt</key>
+      <integer>-35</integer>
       <key>public.kern2.H</key>
       <integer>-20</integer>
       <key>public.kern2.M</key>
@@ -693,6 +699,8 @@
       <integer>-35</integer>
       <key>public.kern2.H</key>
       <integer>-20</integer>
+      <key>public.kern2.H.salt</key>
+      <integer>-30</integer>
       <key>public.kern2.J</key>
       <integer>-20</integer>
       <key>public.kern2.M</key>
