@@ -1,3 +1,19 @@
+@LOWSALT = [ A.salt Aacute.salt Abreve.salt Acircumflex.salt Adieresis.salt Agrave.salt Amacron.salt Aogonek.salt Aring.salt Atilde.salt G.salt Gbreve.salt Gcommaaccent.salt Gdotaccent.salt K.salt Kcommaaccent.salt L.salt Lacute.salt Lcaron.salt Lcommaaccent.salt Ldot.salt Lslash.salt M.salt N.salt Nacute.salt Ncaron.salt Ncommaaccent.salt Ntilde.salt Q.salt R.salt Racute.salt Rcaron.salt Rcommaaccent.salt Z.salt Zacute.salt Zcaron.salt Zdotaccent.salt H_K.salt H_L.salt H_R.salt H_Racute.salt ];
+
+@LOWWX = [ W.salt Wacute.salt Wcircumflex.salt Wdieresis.salt Wgrave.salt X.salt ];
+
+@ALTWX = [ W.salt.alt1 Wacute.salt.alt1 Wcircumflex.salt.alt1 Wdieresis.salt.alt1 Wgrave.salt.alt1 X.salt.alt1 ];
+
+@HIGHSALT = [ U.salt Uacute.salt Ucircumflex.salt Udieresis.salt Ugrave.salt Uhungarumlaut.salt Umacron.salt Uogonek.salt Uring.salt V.salt W.salt Wacute.salt Wcircumflex.salt Wdieresis.salt Wgrave.salt X.salt @ALTWX ];
+
+@HIGHMN = [ M.salt N.salt Nacute.salt Ncaron.salt Ncommaaccent.salt Eng.salt Ntilde ];
+
+@ALTMN = [ M N Nacute Ncaron Ncommaaccent Eng Ntilde ];
+
+@FIGURES = [ zero one two three four five six seven eight nine ];
+
+@ONUM_FIGURES = [ zero.salt one.salt two.salt three.salt four.salt five.salt six.salt seven.salt eight.salt nine.salt ];
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 
@@ -12,6 +28,10 @@ lookup locl_TRK {
     sub i by i.locl;
     sub I.ss02 by Idotaccent;
 } locl_TRK ;
+
+lookup lookup_onum {
+    sub @FIGURES by @ONUM_FIGURES;
+} lookup_onum;
 
 lookup lookup_ss01 {
     sub A by A.salt;
@@ -128,6 +148,15 @@ lookup lookup_ss01 {
     sub Zacute by Zacute.salt;
     sub Zcaron by Zcaron.salt;
     sub Zdotaccent by Zdotaccent.salt;
+    sub ampersand by ampersand.salt;
+    sub bullet by bullet.salt;
+    sub periodcentered by periodcentered.salt;
+    sub braceleft by braceleft.salt;
+    sub braceright by braceright.salt;
+    sub guillemotleft by guillemotleft.salt;
+    sub guillemotright by guillemotright.salt;
+    sub guilsinglleft by guilsinglleft.salt;
+    sub guilsinglright by guilsinglright.salt;
 } lookup_ss01;
 
 lookup ss02_lookup_0 {
@@ -243,6 +272,10 @@ lookup ss02_lookup_0 {
     sub zacute by Zacute;
     sub zcaron by Zcaron;
     sub zdotaccent by Zdotaccent;
+    sub germandbls by germandbls.ss02;
+    sub fi by fi.ss02;
+    sub fl by fl.ss02;
+    sub mu by M;
 } ss02_lookup_0;
 
 lookup ss02_lookup_not_TRK {
@@ -255,6 +288,11 @@ lookup ss02_lookup_TRK{
     sub i.locl by Idotaccent;
     sub dotlessi by I;
 } ss02_lookup_TRK;
+
+lookup calt_WX {
+    sub @LOWSALT @LOWWX' by @ALTWX;
+    sub @HIGHSALT @HIGHMN' by @ALTMN;
+} calt_WX;
 
 
 feature locl {
@@ -271,9 +309,13 @@ feature locl {
     lookup locl_TRK;
 } locl;
 
+feature onum {
+lookup lookup_onum;
+} onum;
+
 feature ss01 {
 featureNames {
-name "Decorative uppercase";
+name "Decorative";
 };
 lookup lookup_ss01;
 } ss01;
@@ -341,3 +383,7 @@ sub H.salt L.salt by H_L.salt;
 sub H.salt R.salt by H_R.salt;
 sub H.salt Racute.salt by H_Racute.salt;
 } dlig;
+
+feature calt {
+    lookup calt_WX;
+} calt;

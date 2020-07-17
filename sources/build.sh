@@ -22,10 +22,10 @@ fontmake -m Cinzel.designspace -o variable --output-path ../fonts/variable/Cinze
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
 echo "Generate CinzelDecorative VFs"
-python3 -m opentype_feature_freezer.cli -f ss01 ../fonts/variable/Cinzel\[wght\].ttf ../fonts/variable/CinzelDecorative\[wght\].ttf.temp
+python3 -m opentype_feature_freezer.cli -f ss01,onum ../fonts/variable/Cinzel\[wght\].ttf ../fonts/variable/CinzelDecorative\[wght\].ttf.temp
 python3 -m opentype_feature_freezer.cli -S -U Decorative -f ss02 ../fonts/variable/CinzelDecorative\[wght\].ttf.temp ../fonts/variable/CinzelDecorative\[wght\].ttf
 rm ../fonts/variable/CinzelDecorative\[wght\].ttf.temp
-pyftsubset  --glyph-names --notdef-glyph --notdef-outline --recommended-glyphs --layout-features-="ss01,ss02" --layout-features+="locl,dlig" --name-IDs="*" --unicodes="*" --output-file=../fonts/variable/CinzelDecorative\[wght\].subset.ttf ../fonts/variable/CinzelDecorative\[wght\].ttf
+pyftsubset  --glyph-names --notdef-glyph --notdef-outline --recommended-glyphs --layout-features-="ss01,ss02,onum" --layout-features+="calt,locl,dlig" --name-IDs="*" --unicodes="*" --output-file=../fonts/variable/CinzelDecorative\[wght\].subset.ttf ../fonts/variable/CinzelDecorative\[wght\].ttf
 mv ../fonts/variable/CinzelDecorative\[wght\].subset.ttf ../fonts/variable/CinzelDecorative\[wght\].ttf
 
 echo "Generate CinzelDecorative static fonts"
@@ -34,10 +34,10 @@ for ttf in $ttfs
 do
 	dttf=$(echo $ttf | sed 's/-/Decorative-/');
 	subsetdttf=$(basename -s .ttf $dttf).ttf
-	python3 -m opentype_feature_freezer.cli -f ss01 $ttf $dttf.temp;
+	python3 -m opentype_feature_freezer.cli -f ss01,onum $ttf $dttf.temp;
 	python3 -m opentype_feature_freezer.cli -S -U Decorative -f ss02 $dttf.temp $dttf;
 	rm $dttf.temp
-	pyftsubset --glyph-names --notdef-glyph --notdef-outline --recommended-glyphs --layout-features="ss01,ss02" --layout-features+="locl,dlig" --name-IDs="*" --unicodes="*" --output-file=$subsetdttf $dttf;
+	pyftsubset --glyph-names --notdef-glyph --notdef-outline --recommended-glyphs --layout-features-="ss01,ss02,onum" --layout-features+="calt,locl,dlig" --name-IDs="*" --unicodes="*" --output-file=$subsetdttf $dttf;
 	mv $subsetdttf $dttf;
 done
 

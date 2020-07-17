@@ -90,9 +90,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>H.001</string>
+      <string>H.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>H.001</string>
+      <string>H.salt</string>
     </dict>
   </lib>
 </glyph>

@@ -6,12 +6,4 @@
     <component base="dotlessi"/>
     <component base="circumflexcomb" xOffset="-98" yOffset="-12"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>dotlessi</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>dotlessi</string>
-    </dict>
-  </lib>
 </glyph>

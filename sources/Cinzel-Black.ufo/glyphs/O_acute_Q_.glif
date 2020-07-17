@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oacute_Q" format="2">
-  <advance width="1275"/>
+  <advance width="1257"/>
   <outline>
     <component base="Oacute"/>
-    <component base="Q" xOffset="363"/>
+    <component base="Q" xOffset="345"/>
   </outline>
   <lib>
     <dict>

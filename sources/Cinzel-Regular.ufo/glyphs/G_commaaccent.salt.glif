@@ -3,14 +3,14 @@
   <advance width="846"/>
   <outline>
     <component base="G.salt"/>
-    <component base="commaaccentcomb" xOffset="384" yOffset="-64"/>
+    <component base="commaaccentcomb" xOffset="383"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>G.001</string>
+      <string>G.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>G.001</string>
+      <string>G.salt</string>
     </dict>
   </lib>
 </glyph>

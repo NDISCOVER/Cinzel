@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Aogonek.salt" format="2">
-  <advance width="682"/>
+  <advance width="702"/>
   <outline>
     <contour>
       <point x="136" y="73" type="curve"/>
@@ -68,9 +68,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>A.001</string>
+      <string>A.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>A.001</string>
+      <string>A.salt</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tcedilla.salt" format="2">
-  <advance width="618"/>
+  <advance width="620"/>
   <outline>
     <component base="T.salt"/>
     <component base="cedillacomb" xOffset="3"/>
@@ -8,9 +8,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>T.001</string>
+      <string>T.salt</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>T.001</string>
+      <string>T.salt</string>
     </dict>
   </lib>
 </glyph>

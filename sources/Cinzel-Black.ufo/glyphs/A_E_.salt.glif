@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="AE.salt" format="2">
-  <advance width="941"/>
+  <advance width="940"/>
   <anchor x="170" y="700" name="top"/>
   <outline>
     <contour>
@@ -103,7 +103,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>E.001</string>
+      <string>E.salt</string>
     </dict>
   </lib>
 </glyph>
