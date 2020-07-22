@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="693"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="60"/>
+    <component base="foursuperior" xOffset="331" yOffset="-308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>onesuperior</string>
+    </dict>
+  </lib>
+</glyph>

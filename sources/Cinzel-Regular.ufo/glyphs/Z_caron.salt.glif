@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcaron.salt" format="2">
+  <advance width="636"/>
+  <outline>
+    <component base="Z.salt"/>
+    <component base="caroncomb" xOffset="39" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Z.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Z.salt</string>
+    </dict>
+  </lib>
+</glyph>

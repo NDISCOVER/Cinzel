@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute.salt" format="2">
+  <advance width="652"/>
+  <outline>
+    <component base="R.salt"/>
+    <component base="acutecomb" xOffset="116" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>R.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>R.salt</string>
+    </dict>
+  </lib>
+</glyph>

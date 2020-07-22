@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ugrave.salt" format="2">
+  <advance width="852"/>
+  <outline>
+    <component base="U.salt"/>
+    <component base="gravecomb" xOffset="233" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U.salt</string>
+    </dict>
+  </lib>
+</glyph>

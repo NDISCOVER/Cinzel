@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex.salt" format="2">
+  <advance width="964"/>
+  <outline>
+    <component base="W.salt"/>
+    <component base="circumflexcomb" xOffset="273" yOffset="88"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W.salt</string>
+    </dict>
+  </lib>
+</glyph>

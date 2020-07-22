@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H_Edotaccent.salt" format="2">
+  <advance width="1186"/>
+  <outline>
+    <component base="H_E.salt"/>
+    <component base="dotaccentcomb" xOffset="459" yOffset="99"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Edotaccent.salt</string>
+    </dict>
+  </lib>
+</glyph>

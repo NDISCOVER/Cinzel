@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat.salt" format="2">
+  <advance width="878"/>
+  <outline>
+    <component base="D.salt"/>
+    <component base="macroncomb" xOffset="165" yOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D.salt</string>
+    </dict>
+  </lib>
+</glyph>

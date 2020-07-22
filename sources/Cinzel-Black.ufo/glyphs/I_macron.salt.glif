@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Imacron.salt" format="2">
+  <advance width="498"/>
+  <outline>
+    <component base="I.salt"/>
+    <component base="macroncomb" xOffset="-4" yOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I.salt</string>
+    </dict>
+  </lib>
+</glyph>

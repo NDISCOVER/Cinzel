@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave.salt" format="2">
+  <advance width="498"/>
+  <outline>
+    <component base="I.salt"/>
+    <component base="gravecomb" xOffset="21" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I.salt</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Igrave" format="2">
+  <advance width="418"/>
+  <unicode hex="00CC"/>
+  <outline>
+    <contour>
+      <point x="312" y="700" type="line"/>
+      <point x="107" y="700" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="312" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="73" type="line"/>
+      <point x="107" y="73" type="line"/>
+      <point x="106" y="38"/>
+      <point x="78" y="10"/>
+      <point x="43" y="10" type="curve" smooth="yes"/>
+      <point x="43" y="10"/>
+      <point x="30" y="10"/>
+      <point x="30" y="10" type="curve"/>
+      <point x="30" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="627" type="line"/>
+      <point x="110" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+      <point x="30" y="690" type="line"/>
+      <point x="30" y="690"/>
+      <point x="43" y="690"/>
+      <point x="43" y="690" type="curve" smooth="yes"/>
+      <point x="78" y="690"/>
+      <point x="106" y="662"/>
+      <point x="107" y="627" type="curve"/>
+    </contour>
+    <contour>
+      <point x="309" y="73" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="10" type="line"/>
+      <point x="388" y="10"/>
+      <point x="376" y="10"/>
+      <point x="376" y="10" type="curve" smooth="yes"/>
+      <point x="341" y="10"/>
+      <point x="313" y="38"/>
+      <point x="312" y="73" type="curve"/>
+    </contour>
+    <contour>
+      <point x="309" y="627" type="line"/>
+      <point x="312" y="627" type="line"/>
+      <point x="313" y="662"/>
+      <point x="341" y="690"/>
+      <point x="376" y="690" type="curve" smooth="yes"/>
+      <point x="376" y="690"/>
+      <point x="388" y="690"/>
+      <point x="389" y="690" type="curve"/>
+      <point x="389" y="700" type="line"/>
+      <point x="309" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="771" type="line"/>
+      <point x="217" y="837"/>
+      <point x="135" y="919"/>
+      <point x="90" y="957" type="curve"/>
+      <point x="42" y="936"/>
+      <point x="19" y="903"/>
+      <point x="5" y="857" type="curve"/>
+      <point x="69" y="815"/>
+      <point x="165" y="773"/>
+      <point x="238" y="764" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

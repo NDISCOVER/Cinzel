@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H_Egrave.salt" format="2">
+  <advance width="1081"/>
+  <outline>
+    <component base="H_E.salt"/>
+    <component base="gravecomb" xOffset="489" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Egrave.salt</string>
+    </dict>
+  </lib>
+</glyph>

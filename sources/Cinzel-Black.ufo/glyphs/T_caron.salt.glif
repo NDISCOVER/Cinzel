@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron.salt" format="2">
+  <advance width="750"/>
+  <outline>
+    <component base="T.salt"/>
+    <component base="caroncomb" xOffset="117" yOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T.salt</string>
+    </dict>
+  </lib>
+</glyph>

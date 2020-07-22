@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eogonek.salt" format="2">
+  <advance width="712"/>
+  <outline>
+    <component base="E.salt"/>
+    <component base="ogonekcomb" xOffset="296" yOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

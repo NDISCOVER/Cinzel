@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H_Ecircumflex.salt" format="2">
+  <advance width="1081"/>
+  <outline>
+    <component base="H_E.salt"/>
+    <component base="circumflexcomb" xOffset="445" yOffset="34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ecircumflex.salt</string>
+    </dict>
+  </lib>
+</glyph>

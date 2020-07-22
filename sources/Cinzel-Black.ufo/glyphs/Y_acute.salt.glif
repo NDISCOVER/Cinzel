@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute.salt" format="2">
+  <advance width="699"/>
+  <outline>
+    <component base="Y.salt"/>
+    <component base="acutecomb" xOffset="137" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Y.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Y.salt</string>
+    </dict>
+  </lib>
+</glyph>

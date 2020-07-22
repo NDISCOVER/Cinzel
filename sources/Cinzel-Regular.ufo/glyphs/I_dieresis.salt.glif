@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis.salt" format="2">
+  <advance width="415"/>
+  <outline>
+    <component base="I.salt"/>
+    <component base="dieresiscomb" xOffset="-56" yOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I.salt</string>
+    </dict>
+  </lib>
+</glyph>

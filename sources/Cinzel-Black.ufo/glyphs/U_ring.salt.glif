@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uring.salt" format="2">
+  <advance width="852"/>
+  <outline>
+    <component base="U.salt"/>
+    <component base="ringcomb" xOffset="199" yOffset="65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U.salt</string>
+    </dict>
+  </lib>
+</glyph>

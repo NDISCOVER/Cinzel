@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE.salt" format="2">
+  <advance width="1161"/>
+  <anchor x="355" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="434" y="714" type="curve" smooth="yes"/>
+      <point x="168" y="714"/>
+      <point x="10" y="579"/>
+      <point x="10" y="352" type="curve" smooth="yes"/>
+      <point x="10" y="121"/>
+      <point x="173" y="-14"/>
+      <point x="422" y="-14" type="curve" smooth="yes"/>
+      <point x="483" y="-14"/>
+      <point x="512" y="-6"/>
+      <point x="562" y="-2" type="curve" smooth="yes"/>
+      <point x="589" y="0"/>
+      <point x="605" y="0"/>
+      <point x="616" y="0" type="curve"/>
+      <point x="615" y="700" type="line"/>
+      <point x="592" y="700"/>
+      <point x="569" y="702"/>
+      <point x="547" y="705" type="curve" smooth="yes"/>
+      <point x="510" y="710"/>
+      <point x="480" y="714"/>
+    </contour>
+    <contour>
+      <point x="436" y="36" type="curve" smooth="yes"/>
+      <point x="308" y="36"/>
+      <point x="221" y="152"/>
+      <point x="222" y="350" type="curve" smooth="yes"/>
+      <point x="223" y="557"/>
+      <point x="315" y="664"/>
+      <point x="437" y="664" type="curve" smooth="yes"/>
+      <point x="513" y="664"/>
+      <point x="556" y="623"/>
+      <point x="556" y="596" type="curve"/>
+      <point x="556" y="104" type="line"/>
+      <point x="556" y="75"/>
+      <point x="511" y="36"/>
+    </contour>
+    <contour>
+      <point x="761" y="700" type="line"/>
+      <point x="556" y="700" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="761" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1081" y="51" type="line"/>
+      <point x="758" y="51" type="line"/>
+      <point x="758" y="0" type="line"/>
+      <point x="1121" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1018" y="370" type="line"/>
+      <point x="758" y="370" type="line"/>
+      <point x="758" y="320" type="line"/>
+      <point x="1018" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="931" y="700" type="line"/>
+      <point x="758" y="700" type="line"/>
+      <point x="758" y="649" type="line" smooth="yes"/>
+      <point x="931" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="1162" y="232" type="line"/>
+      <point x="1152" y="232" type="line"/>
+      <point x="1121" y="117"/>
+      <point x="1040" y="51"/>
+      <point x="944" y="51" type="curve"/>
+      <point x="908" y="0" type="line"/>
+      <point x="1124" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1018" y="322" type="line"/>
+      <point x="900" y="322" type="line"/>
+      <point x="900" y="320" type="line"/>
+      <point x="963" y="319"/>
+      <point x="1008" y="274"/>
+      <point x="1008" y="211" type="curve" smooth="yes"/>
+      <point x="1008" y="206" type="line"/>
+      <point x="1018" y="206" type="line"/>
+    </contour>
+    <contour>
+      <point x="1018" y="484" type="line"/>
+      <point x="1008" y="484" type="line"/>
+      <point x="1008" y="480" type="line" smooth="yes"/>
+      <point x="1008" y="417"/>
+      <point x="963" y="371"/>
+      <point x="900" y="370" type="curve"/>
+      <point x="900" y="368" type="line"/>
+      <point x="1018" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="931" y="652" type="line"/>
+      <point x="792" y="652" type="line"/>
+      <point x="792" y="650" type="line"/>
+      <point x="873" y="648"/>
+      <point x="921" y="600"/>
+      <point x="921" y="520" type="curve" smooth="yes"/>
+      <point x="921" y="512" type="line"/>
+      <point x="931" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="931" y="718" type="line"/>
+      <point x="912" y="710"/>
+      <point x="852" y="700"/>
+      <point x="809" y="700" type="curve"/>
+      <point x="931" y="689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E.salt</string>
+    </dict>
+  </lib>
+</glyph>

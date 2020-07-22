@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft.salt" format="2">
+  <advance width="263"/>
+  <outline>
+    <contour>
+      <point x="40" y="291.757" type="curve"/>
+      <point x="108.267" y="347.743"/>
+      <point x="160.535" y="399.729"/>
+      <point x="214.802" y="489.715" type="curve"/>
+      <point x="222.802" y="484.715" type="line"/>
+      <point x="193.535" y="410.396"/>
+      <point x="154.267" y="346.076"/>
+      <point x="105" y="291.757" type="curve"/>
+      <point x="154.601" y="236.076"/>
+      <point x="194.201" y="170.396"/>
+      <point x="223.802" y="94.715" type="curve"/>
+      <point x="214.802" y="89.715" type="line"/>
+      <point x="161.535" y="173.062"/>
+      <point x="108.267" y="234.41"/>
+    </contour>
+  </outline>
+</glyph>

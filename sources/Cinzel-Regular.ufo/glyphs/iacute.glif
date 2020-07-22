@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="306"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="acutecomb" xOffset="-54" yOffset="-82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dotlessi</string>
+    </dict>
+  </lib>
+</glyph>

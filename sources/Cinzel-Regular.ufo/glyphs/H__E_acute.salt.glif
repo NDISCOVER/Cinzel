@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H_Eacute.salt" format="2">
+  <advance width="1081"/>
+  <outline>
+    <component base="H_E.salt"/>
+    <component base="acutecomb" xOffset="514" yOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Eacute.salt</string>
+    </dict>
+  </lib>
+</glyph>

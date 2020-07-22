@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="834"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="163"/>
+    <component base="foursuperior" xOffset="419" yOffset="-308"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>threesuperior</string>
+    </dict>
+  </lib>
+</glyph>

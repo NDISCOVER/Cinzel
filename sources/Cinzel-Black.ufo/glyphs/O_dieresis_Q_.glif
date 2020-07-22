@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis_Q" format="2">
+  <advance width="1257"/>
+  <outline>
+    <component base="Odieresis"/>
+    <component base="Q" xOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Odieresis</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Q</string>
+    </dict>
+  </lib>
+</glyph>

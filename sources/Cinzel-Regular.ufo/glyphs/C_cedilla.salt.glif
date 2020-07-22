@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla.salt" format="2">
+  <advance width="821"/>
+  <outline>
+    <component base="C.salt"/>
+    <component base="cedillacomb" xOffset="137" yOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>C.salt</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>C.salt</string>
+    </dict>
+  </lib>
+</glyph>
