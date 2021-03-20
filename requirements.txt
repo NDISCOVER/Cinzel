@@ -28,7 +28,7 @@ GitPython==3.1.3
 glyphsLib==5.1.10
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.5.1
 MarkupSafe==1.1.1
 opentype-feature-freezer==1.30.0
